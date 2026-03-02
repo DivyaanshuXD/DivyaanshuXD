@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyaanshu Tonk</h1>
-<h3 align="center">Computer Science Student | AI & Backend Engineer | Building Tech for Real-World Impact</h3>
+<h3 align="center">Computer Science Student | Full-Stack Developer | Building Tech for Real-World Impact</h3>
 
 <p align="center">
 📍 Hyderabad, Telangana • 📧 divyaanshutonk@gmail.com • 📞 +91 7032923464  
@@ -18,39 +18,37 @@
 
 ## 🚀 About Me
 
-I’m a Computer Science Engineering student who loves building **scalable systems, intelligent products, and impactful tech**.  
-My interests lie in:
+I’m a Computer Science Engineering student focused on building practical systems that solve real-world problems.
 
-- AI systems that solve real-world problems  
-- Backend & distributed systems  
-- Cloud-native architectures  
-- Developer tools and automation  
+My interests include:
 
-I enjoy building things that are not just *cool*, but **useful**.
+* Full-stack web development
+* System design and backend logic
+* Performance-optimized web applications
+* Technology-driven social impact
+
+I enjoy building systems that are functional, scalable, and impactful.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 </p>
 
 ### 🌐 Web & Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
-</p>
+### 🧰 Tools & Technologies
 
-### 🧠 Databases & Messaging
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,vite" />
 </p>
 
 ---
@@ -58,60 +56,63 @@ I enjoy building things that are not just *cool*, but **useful**.
 ## 🌟 Featured Projects
 
 ### 🩸 Raksetu – Smart Blood Donation Network
-> A real-time emergency blood matching platform for faster life-saving responses.
 
-- 📍 Real-time GPS-based donor matching  
-- 🤖 ML predictor with **92% accuracy** for:
-  - Blood demand forecasting  
-  - Donor availability  
-- ⚡ Faster response using:
-  - Nearest donor prioritization  
-  - Automated notification routing  
+> Full-stack blood donation platform addressing healthcare accessibility in India.
 
-**Impact:** Designed for real-world healthcare emergencies.
+* 🔥 Real-time Firebase backend with emergency request matching
+* 📍 GPS-based donor search using Google Maps integration
+* 🎙️ Multilingual AI voice assistant supporting 13+ Indian languages using Web Speech API
+* ⚡ Progressive Web App architecture with 90+ Lighthouse performance score
+* 🏆 Gamification features including leaderboards and automated certificate generation
 
 ---
 
-### 🤖 GitPA 2.0 – AI GitHub Repository Analyzer
-> AI system that understands, reviews, and improves codebases.
+### 🚗 ChildSafe O2 – Vehicle Child Safety System Prototype
 
-- 🧠 AI-powered:
-  - Code review  
-  - Security scanning  
-  - Test generation  
-  - Refactoring suggestions  
-- 🔗 Multi-LLM integration:
-  - Gemini  
-  - Groq  
-  - Supports **1M-token context**
-- ⚙️ Backend built using:
-  - Vercel Serverless Functions  
-  - TypeScript  
+> Embedded safety system to prevent infant entrapment inside locked vehicles.
 
-Built as a serious developer productivity tool.
+* 🧠 PIR-based motion detection with automated condition monitoring
+* 📲 GSM SIM900A module triggering real-time SMS alerts and emergency calls
+* 🔔 Buzzer-based immediate warning mechanism
+* 🌬️ Relay-controlled ventilation module with independent power support
+* 🥇 1st Place Winner – IGNITE 2026 National Level Project Expo (860+ Teams)
 
 ---
 
 ## 🏆 Achievements
 
-🥉 **Hack-A-Cure, VIT Chennai — 3rd Place**  
-- Built RAG-based medical assistant grounded in verified sources  
-- Reduced hallucinations using citation-based responses  
+🥇 **IGNITE 2026 – National Level Project Expo — 1st Place**
 
-🌍 **Social Impact Award – Global Finalist**  
-- Top **24 teams globally (out of 464)** for Raksetu  
-- Received global mentorship to scale the system  
+* Secured 1st rank among 860+ participating teams
+* Demonstrated live working prototype with real-time detection, GSM alerts, and automated ventilation system
+
+🥉 **Hack-A-Cure, VIT Chennai — 3rd Place (Oct 2025)**
+
+* Developed Retrieval-Augmented Generation medical assistant grounded in verified sources
+* Reduced hallucinations by implementing citation-based responses (~95% reliability in testing)
+
+🌍 **Social Impact Award – Global Finalist**
+
+* Selected among Top 24 teams globally (out of 464) for Raksetu
+* Received global mentorship to scale real-world deployment
 
 ---
 
 ## 🎓 Education
 
-**CMR College of Engineering and Technology** — Hyderabad  
-Bachelor of Technology (B.Tech), Computer Science Engineering  
-📅 Aug 2023 – Aug 2027  
+**CMR College of Engineering and Technology** — Hyderabad
+Bachelor of Technology (B.Tech), Computer Science Engineering
+📅 Aug 2023 – Aug 2027
+📊 CGPA: 8.0
 
 ---
 
+## 📜 Certifications
+
+* Accenture Go for Gold – Gold Level Certification (2500+ points)
+* Cisco Networking Academy – Python Essentials
+
+---
 
 ## 📊 GitHub Stats
 
@@ -119,15 +120,15 @@ Bachelor of Technology (B.Tech), Computer Science Engineering
   <img src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=tokyonight" />
 </p>
 
-
 ---
 
 ## 🤝 Let's Connect
 
-If you're into:
-- AI systems  
-- Backend engineering  
-- Building impactful tech  
-- Hackathons & startups  
+If you're interested in:
 
-Feel free to reach out. I love collaborating on ambitious ideas.
+* Building scalable web applications
+* Solving real-world healthcare problems
+* Embedded systems and IoT innovation
+* Hackathons and collaborative tech projects
+
+Feel free to connect.
