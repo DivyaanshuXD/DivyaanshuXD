@@ -22,31 +22,28 @@ I’m a Computer Science Engineering student focused on building practical syste
 
 My interests include:
 
-* Full-stack web development
-* System design and backend logic
-* Performance-optimized web applications
-* Technology-driven social impact
+- Full-stack web development  
+- Backend systems and logic design  
+- Performance-optimized web applications  
+- Technology-driven social impact  
 
-I enjoy building systems that are functional, scalable, and impactful.
+I build systems that are functional, scalable, and impactful.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 </p>
 
 ### 🌐 Web & Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
 ### 🧰 Tools & Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,git,vite" />
 </p>
@@ -56,69 +53,56 @@ I enjoy building systems that are functional, scalable, and impactful.
 ## 🌟 Featured Projects
 
 ### 🩸 Raksetu – Smart Blood Donation Network
-
 > Full-stack blood donation platform addressing healthcare accessibility in India.
 
-* 🔥 Real-time Firebase backend with emergency request matching
-* 📍 GPS-based donor search using Google Maps integration
-* 🎙️ Multilingual AI voice assistant supporting 13+ Indian languages using Web Speech API
-* ⚡ Progressive Web App architecture with 90+ Lighthouse performance score
-* 🏆 Gamification features including leaderboards and automated certificate generation
+- Real-time Firebase backend with emergency request matching  
+- GPS-based donor search using Google Maps integration  
+- Multilingual AI voice assistant supporting 13+ Indian languages using Web Speech API  
+- Progressive Web App architecture with 90+ Lighthouse performance score  
+- Gamification features including leaderboards and automated certificate generation  
 
 ---
 
 ### 🚗 ChildSafe O2 – Vehicle Child Safety System Prototype
-
 > Embedded safety system to prevent infant entrapment inside locked vehicles.
 
-* 🧠 PIR-based motion detection with automated condition monitoring
-* 📲 GSM SIM900A module triggering real-time SMS alerts and emergency calls
-* 🔔 Buzzer-based immediate warning mechanism
-* 🌬️ Relay-controlled ventilation module with independent power support
-* 🥇 1st Place Winner – IGNITE 2026 National Level Project Expo (860+ Teams)
+- PIR-based motion detection with automated condition monitoring  
+- GSM SIM900A module triggering real-time SMS alerts and emergency calls  
+- Buzzer-based immediate warning mechanism  
+- Relay-controlled ventilation module with independent power support  
+- 1st Place Winner – IGNITE 2026 National Level Project Expo (860+ Teams)  
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **IGNITE 2026 – National Level Project Expo — 1st Place**
+🥇 IGNITE 2026 – National Level Project Expo — 1st Place  
+- Secured 1st rank among 860+ participating teams  
+- Demonstrated live working prototype with real-time detection, GSM alerts, and automated ventilation system  
 
-* Secured 1st rank among 860+ participating teams
-* Demonstrated live working prototype with real-time detection, GSM alerts, and automated ventilation system
+🥉 Hack-A-Cure, VIT Chennai — 3rd Place (Oct 2025)  
+- Developed Retrieval-Augmented Generation medical assistant grounded in verified sources  
+- Reduced hallucinations using citation-based responses (~95% reliability in testing)  
 
-🥉 **Hack-A-Cure, VIT Chennai — 3rd Place (Oct 2025)**
-
-* Developed Retrieval-Augmented Generation medical assistant grounded in verified sources
-* Reduced hallucinations by implementing citation-based responses (~95% reliability in testing)
-
-🌍 **Social Impact Award – Global Finalist**
-
-* Selected among Top 24 teams globally (out of 464) for Raksetu
-* Received global mentorship to scale real-world deployment
+🌍 Social Impact Award – Global Finalist  
+- Selected among Top 24 teams globally (out of 464) for Raksetu  
+- Received global mentorship to scale real-world deployment  
 
 ---
 
 ## 🎓 Education
 
-**CMR College of Engineering and Technology** — Hyderabad
-Bachelor of Technology (B.Tech), Computer Science Engineering
-📅 Aug 2023 – Aug 2027
-📊 CGPA: 8.0
+**CMR College of Engineering and Technology** — Hyderabad  
+Bachelor of Technology (B.Tech), Computer Science Engineering  
+Aug 2023 – Aug 2027  
+CGPA: 8.0  
 
 ---
 
 ## 📜 Certifications
 
-* Accenture Go for Gold – Gold Level Certification (2500+ points)
-* Cisco Networking Academy – Python Essentials
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=tokyonight" />
-</p>
+- Accenture Go for Gold – Gold Level Certification (2500+ points)  
+- Cisco Networking Academy – Python Essentials  
 
 ---
 
@@ -126,9 +110,9 @@ Bachelor of Technology (B.Tech), Computer Science Engineering
 
 If you're interested in:
 
-* Building scalable web applications
-* Solving real-world healthcare problems
-* Embedded systems and IoT innovation
-* Hackathons and collaborative tech projects
+- Building scalable web applications  
+- Solving real-world healthcare problems  
+- Embedded systems and IoT innovation  
+- Hackathons and collaborative tech projects  
 
 Feel free to connect.
