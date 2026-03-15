@@ -1,155 +1,139 @@
 <h1 align="center">Hi 👋, I'm Divyaanshu Tonk</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Backend & AI Systems</h3>
 
 <p align="center">
-📍 Hyderabad, Telangana • 📧 divyaanshutonk@gmail.com • 📞 +91 7032923464
+Computer Science Student • Full-Stack Developer • Backend & AI Systems
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/divyaanshutonk">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:divyaanshutonk@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://github.com/DivyaanshuXD">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+📍 Hyderabad, India • 📧 divyaanshutonk@gmail.com • 📞 +91 7032923464
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Systems+%7C+AI+Tools+%7C+Real-Time+Apps;Building+Projects+with+Real+Impact;Always+Learning+Always+Building" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-darkgreen?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/AI-Systems-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded-Projects-red?style=for-the-badge"/>
+
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ## 🚀 About Me
 
-I’m a Computer Science undergraduate focused on building scalable systems, developer tools, and real-world applications.
+- Computer Science Engineering student at CMR College
+- Interested in backend systems, AI tools, and real-time platforms
+- Build projects that solve real problems
+- Focus on scalable architecture and clean logic
+- Enjoy hackathons and system design
 
-My interests include:
+### ⚙️ Skills
 
-- Full-stack development  
-- Backend engineering  
-- AI-based systems  
-- Real-time platforms  
-- System design and performance optimization  
+- Backend APIs
+- Full-stack apps
+- Database design
+- System design
+- Embedded projects
+- AI / ML basics
 
-I enjoy building projects that are practical, reliable, and designed for real usage.
+</td>
 
----
+<td width="45%" valign="top">
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,express,mongodb,mysql,sqlite,firebase,git,linux,vscode" />
 
-### 🌐 Frontend & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite"/>
-</p>
+</td>
 
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
-</p>
-
-### 🧰 Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode"/>
-</p>
-
-### 📚 Concepts
-- Data Structures  
-- Algorithms  
-- OOP  
-- DBMS  
-- System Design  
+</tr>
+</table>
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🔍 LLMTap — Local-First LLM Observability Platform
-> TypeScript, React, Fastify, SQLite, SSE, OpenTelemetry  
-> 🔗 https://github.com/DivyaanshuXD/LLMTap
+- Tracing, cost analytics, model monitoring
+- ES-Proxy SDK for API interception
+- Fastify + SQLite backend
+- React dashboard + CLI launcher
 
-- Built zero-config observability tool for LLM apps with tracing, cost analytics, and monitoring across multiple providers  
-- Developed ES-Proxy based SDK to intercept API calls without code changes  
-- Designed monorepo with SDK, Collector, Dashboard, Shared, CLI packages  
-- Implemented Fastify + SQLite backend with real-time streaming  
-- Built React dashboard and CLI launcher using npx  
-
+🔗 https://github.com/DivyaanshuXD/LLMTap
 
 ---
 
 ### 🩸 Raksetu — Smart Blood Donation Network
-> React, Node.js, Firebase, Twilio, ML, PWA, Maps API  
-> 🔗 https://www.raksetu.live
+- Real-time donor matching
+- ML donor retention (95% accuracy)
+- Twilio alert system
+- Live map + PWA
 
-- Built real-time blood donation platform with nationwide request tracking and donor notifications  
-- Developed ML-based donor retention model (95.25% accuracy) for churn prediction  
-- Implemented Twilio alert pipeline for emergency notifications  
-- Designed campaign and analytics system for donor activity monitoring  
-- Developed Progressive Web App with offline support and multilingual voice assistant  
-
+🔗 https://www.raksetu.live
 
 ---
 
-### 🚗 Child Safe O2 — Vehicle Child Safety System
-> Embedded, PIR Sensor, GSM, Relay Control  
-> 🔗 https://github.com/DivyaanshuXD/ChildSafe-O2
+### 🚗 Child Safe O2 — Vehicle Safety System
+- PIR detection + GSM alerts
+- Relay ventilation system
+- Independent power circuit
+- 1st Place IGNITE 2026
 
-- Developed embedded safety system as part of a team project to detect child presence inside locked vehicles  
-- Integrated GSM module for automatic SMS and call alerts  
-- Designed relay-based ventilation system independent of vehicle ignition  
-- Built external power and lock detection circuit for fail-safe operation  
-- Tested prototype under multiple environmental scenarios  
-
+🔗 https://github.com/DivyaanshuXD/ChildSafe-O2
 
 ---
 
 ## 🏆 Achievements
 
-🥇 IGNITE 2026 — National Level Project Expo  
-1st Place among 860+ teams  
-
-🥉 Hack-A-Cure, VIT Chennai  
-3rd Place — Medical RAG Bot  
-
+🥇 IGNITE 2026 — 1st Place (860+ teams)  
+🥉 Hack-A-Cure VIT — 3rd Place  
 🌍 Social Impact Award — Global Finalist  
-Top 24 of 464 teams for Raksetu  
-
 
 ---
 
 ## 🎓 Education
 
-CMR College of Engineering and Technology — Hyderabad  
-B.Tech Computer Science Engineering  
-2023 – Present  
+CMR College of Engineering & Technology  
+B.Tech Computer Science  
 CGPA: 8.0  
 
-Sri Chaitanya Junior Kalasala — Hyderabad  
-Intermediate MPC — 93.9%  
-
+Sri Chaitanya Junior Kalasala  
+Intermediate MPC — 93.9%
 
 ---
 
 ## 📜 Certifications
 
-- Accenture Go for Gold — Gold Level Certification  
-- Cisco Networking Academy — Python Essentials  
-
+- Accenture Go for Gold — Gold Level
+- Cisco Python Essentials
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
-Interested in:
+<p align="center">
 
-- Backend systems
-- AI tools
-- Full-stack apps
-- Hackathons
-- Real-world tech projects
+<img src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=tokyonight" />
 
-Feel free to connect.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaanshuXD&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/divyaanshutonk  
+
+GitHub  
+https://github.com/DivyaanshuXD
