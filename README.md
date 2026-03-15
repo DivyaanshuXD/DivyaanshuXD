@@ -9,108 +9,146 @@ Computer Science Student • Full-Stack Developer • Backend & AI Systems
 </p>
 
 <p align="center">
+📍 Hyderabad, Telangana • 📧 divyaanshutonk@gmail.com • 📞 +91 7032923464
+</p>
 
-<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-darkgreen?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/AI-Systems-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded-Projects-red?style=for-the-badge"/>
-
+<p align="center">
+<a href="https://linkedin.com/in/divyaanshutonk">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:divyaanshutonk@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/DivyaanshuXD">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+## 🚀 About Me
 
-## About Me
+I’m a Computer Science undergraduate focused on building scalable systems, developer tools, and real-world applications.
 
-Computer Science undergraduate at CMR College.
+My interests include:
 
-Interested in
+- Full-stack development  
+- Backend engineering  
+- AI-based systems  
+- Real-time platforms  
+- System design and performance optimization  
 
-- Backend systems
-- Full-stack apps
-- AI tools
-- Real-time platforms
-- Embedded systems
-
-I build projects focused on real-world use, performance, and clean architecture.
-
-</td>
-
-<td width="45%" valign="top">
-
-## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,express,mongodb,mysql,sqlite,firebase,git,linux,vscode" />
-
-</td>
-
-</tr>
-</table>
+I enjoy building projects that are practical, reliable, and designed for real usage.
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### LLMTap — LLM Observability Platform
-TypeScript • React • Fastify • SQLite • OpenTelemetry  
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql"/>
+</p>
 
-- Real-time tracing & cost analytics
-- Proxy SDK for API interception
-- Fastify backend + dashboard
-- CLI launcher
+### 🌐 Frontend & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite"/>
+</p>
 
-https://github.com/DivyaanshuXD/LLMTap
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+</p>
 
----
+### 🧰 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode"/>
+</p>
 
-### Raksetu — Blood Donation Network
-React • Node • Firebase • Twilio • ML • Maps
-
-- Real-time donor matching
-- ML churn prediction
-- SMS alert system
-- Progressive Web App
-
-https://www.raksetu.live
-
----
-
-### Child Safe O2 — Vehicle Safety System
-Embedded • PIR • GSM • Relay
-
-- Child detection inside locked cars
-- Automatic SMS alerts
-- Ventilation control
-- IGNITE 2026 Winner
-
-https://github.com/DivyaanshuXD/ChildSafe-O2
+### 📚 Concepts
+- Data Structures  
+- Algorithms  
+- OOP  
+- DBMS  
+- System Design  
 
 ---
 
-## Achievements
+## 🌟 Featured Projects
 
-1st Place — IGNITE 2026  
-3rd Place — Hack-A-Cure VIT  
-Global Finalist — Social Impact Award  
+### 🔍 LLMTap — Local-First LLM Observability Platform
+> TypeScript, React, Fastify, SQLite, SSE, OpenTelemetry  
+> 🔗 https://github.com/DivyaanshuXD/LLMTap
 
----
+- Built zero-config observability tool for LLM apps with tracing, cost analytics, and monitoring across multiple providers  
+- Developed ES-Proxy based SDK to intercept API calls without code changes  
+- Designed monorepo with SDK, Collector, Dashboard, Shared, CLI packages  
+- Implemented Fastify + SQLite backend with real-time streaming  
+- Built React dashboard and CLI launcher using npx  
 
-## Education
-
-CMR College of Engineering & Technology  
-B.Tech Computer Science  
-CGPA 8.0
-
-Sri Chaitanya Junior Kalasala  
-MPC 93.9%
 
 ---
 
-## GitHub Stats
+### 🩸 Raksetu — Smart Blood Donation Network
+> React, Node.js, Firebase, Twilio, ML, PWA, Maps API  
+> 🔗 https://www.raksetu.live
+
+- Built real-time blood donation platform with nationwide request tracking and donor notifications  
+- Developed ML-based donor retention model (95.25% accuracy) for churn prediction  
+- Implemented Twilio alert pipeline for emergency notifications  
+- Designed campaign and analytics system for donor activity monitoring  
+- Developed Progressive Web App with offline support and multilingual voice assistant  
+
+
+---
+
+### 🚗 Child Safe O2 — Vehicle Child Safety System
+> Embedded, PIR Sensor, GSM, Relay Control  
+> 🔗 https://github.com/DivyaanshuXD/ChildSafe-O2
+
+- Developed embedded safety system as part of a team project to detect child presence inside locked vehicles  
+- Integrated GSM module for automatic SMS and call alerts  
+- Designed relay-based ventilation system independent of vehicle ignition  
+- Built external power and lock detection circuit for fail-safe operation  
+- Tested prototype under multiple environmental scenarios  
+
+
+---
+
+## 🏆 Achievements
+
+🥇 IGNITE 2026 — National Level Project Expo  
+1st Place among 860+ teams  
+
+🥉 Hack-A-Cure, VIT Chennai  
+3rd Place — Medical RAG Bot 🔗 https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot
+
+🌍 Social Impact Award — Global Finalist  
+Top 24 of 464 teams for Raksetu  
+
+
+---
+
+## 🎓 Education
+
+CMR College of Engineering and Technology — Hyderabad  
+B.Tech Computer Science Engineering  
+2023 – Present  
+CGPA: 8.0  
+
+Sri Chaitanya Junior Kalasala — Hyderabad  
+Intermediate MPC — 93.9%  
+
+
+---
+
+## 📜 Certifications
+
+- Accenture Go for Gold — Gold Level Certification  
+- Cisco Networking Academy — Python Essentials  
+
+
+---
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -122,10 +160,14 @@ MPC 93.9%
 
 ---
 
-## Connect
+## 🤝 Let's Connect
 
-LinkedIn  
-https://linkedin.com/in/divyaanshutonk  
+Interested in:
 
-Email  
-divyaanshutonk@gmail.com
+- Backend systems
+- AI tools
+- Full-stack apps
+- Hackathons
+- Real-world tech projects
+
+Feel free to connect.
