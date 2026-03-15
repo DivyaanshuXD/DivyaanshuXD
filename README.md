@@ -39,7 +39,7 @@ I enjoy building projects that are practical, reliable, and designed for real us
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql"/>
+<img src="https://skillicons.dev/icons?i=python,sql,java,javascript,typescript"/>
 </p>
 
 ### 🌐 Frontend & Backend
@@ -54,7 +54,7 @@ I enjoy building projects that are practical, reliable, and designed for real us
 
 ### 🧰 Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode"/>
 </p>
 
 ### 📚 Concepts
