@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Divyaanshu Tonk</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Building Tech for Real-World Impact</h3>
+<h3 align="center">Computer Science Student | Full-Stack Developer | Backend & AI Systems</h3>
 
 <p align="center">
-📍 Hyderabad, Telangana • 📧 divyaanshutonk@gmail.com • 📞 +91 7032923464  
+📍 Hyderabad, Telangana • 📧 divyaanshutonk@gmail.com • 📞 +91 7032923464
 </p>
 
 <p align="center">
@@ -12,22 +12,26 @@
 <a href="mailto:divyaanshutonk@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
+<a href="https://github.com/DivyaanshuXD">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a Computer Science Engineering student focused on building practical systems that solve real-world problems.
+I’m a Computer Science undergraduate focused on building scalable systems, developer tools, and real-world applications.
 
 My interests include:
 
-- Full-stack web development  
-- Backend systems and logic design  
-- Performance-optimized web applications  
-- Technology-driven social impact  
+- Full-stack development  
+- Backend engineering  
+- AI-based systems  
+- Real-time platforms  
+- System design and performance optimization  
 
-I build systems that are functional, scalable, and impactful.
+I enjoy building projects that are practical, reliable, and designed for real usage.
 
 ---
 
@@ -35,84 +39,116 @@ I build systems that are functional, scalable, and impactful.
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql"/>
 </p>
 
-### 🌐 Web & Backend
+### 🌐 Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
 </p>
 
 ### 🧰 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,vite" />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,linux,vscode"/>
 </p>
+
+### 📚 Concepts
+- Data Structures  
+- Algorithms  
+- OOP  
+- DBMS  
+- System Design  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🩸 Raksetu – Smart Blood Donation Network
-> Full-stack blood donation platform addressing healthcare accessibility in India.
+### 🔍 LLMTap — Local-First LLM Observability Platform
+> TypeScript, React, Fastify, SQLite, SSE, OpenTelemetry  
+> https://github.com/DivyaanshuXD/LLMTap
 
-- Real-time Firebase backend with emergency request matching  
-- GPS-based donor search using Google Maps integration  
-- Multilingual AI voice assistant supporting 13+ Indian languages using Web Speech API  
-- Progressive Web App architecture with 90+ Lighthouse performance score  
-- Gamification features including leaderboards and automated certificate generation  
+- Built zero-config observability tool for LLM apps with tracing, cost analytics, and monitoring across multiple providers  
+- Developed ES-Proxy based SDK to intercept API calls without code changes  
+- Designed monorepo with SDK, Collector, Dashboard, Shared, CLI packages  
+- Implemented Fastify + SQLite backend with real-time streaming  
+- Built React dashboard and CLI launcher using npx  
+
 
 ---
 
-### 🚗 ChildSafe O2 – Vehicle Child Safety System Prototype
-> Embedded safety system to prevent infant entrapment inside locked vehicles.
+### 🩸 Raksetu — Smart Blood Donation Network
+> React, Node.js, Firebase, Twilio, ML, PWA, Maps API  
+> https://www.raksetu.live
 
-- PIR-based motion detection with automated condition monitoring  
-- GSM SIM900A module triggering real-time SMS alerts and emergency calls  
-- Buzzer-based immediate warning mechanism  
-- Relay-controlled ventilation module with independent power support  
-- 1st Place Winner – IGNITE 2026 National Level Project Expo (860+ Teams)  
+- Built real-time blood donation platform with nationwide request tracking and donor notifications  
+- Developed ML-based donor retention model (95.25% accuracy) for churn prediction  
+- Implemented Twilio alert pipeline for emergency notifications  
+- Designed campaign and analytics system for donor activity monitoring  
+- Developed Progressive Web App with offline support and multilingual voice assistant  
+
+
+---
+
+### 🚗 Child Safe O2 — Vehicle Child Safety System
+> Embedded, PIR Sensor, GSM, Relay Control
+
+- Developed embedded safety system as part of a team project to detect child presence inside locked vehicles  
+- Integrated GSM module for automatic SMS and call alerts  
+- Designed relay-based ventilation system independent of vehicle ignition  
+- Built external power and lock detection circuit for fail-safe operation  
+- Tested prototype under multiple environmental scenarios  
+
 
 ---
 
 ## 🏆 Achievements
 
-🥇 IGNITE 2026 – National Level Project Expo — 1st Place  
-- Secured 1st rank among 860+ participating teams  
-- Demonstrated live working prototype with real-time detection, GSM alerts, and automated ventilation system  
+🥇 IGNITE 2026 — National Level Project Expo  
+1st Place among 860+ teams  
 
-🥉 Hack-A-Cure, VIT Chennai — 3rd Place (Oct 2025)  
-- Developed Retrieval-Augmented Generation medical assistant grounded in verified sources  
-- Reduced hallucinations using citation-based responses (~95% reliability in testing)  
+🥉 Hack-A-Cure, VIT Chennai  
+3rd Place — Medical RAG Bot  
 
-🌍 Social Impact Award – Global Finalist  
-- Selected among Top 24 teams globally (out of 464) for Raksetu  
-- Received global mentorship to scale real-world deployment  
+🌍 Social Impact Award — Global Finalist  
+Top 24 of 464 teams for Raksetu  
+
 
 ---
 
 ## 🎓 Education
 
-**CMR College of Engineering and Technology** — Hyderabad  
-Bachelor of Technology (B.Tech), Computer Science Engineering  
-Aug 2023 – Aug 2027  
+CMR College of Engineering and Technology — Hyderabad  
+B.Tech Computer Science Engineering  
+2023 – Present  
 CGPA: 8.0  
+
+Sri Chaitanya Junior Kalasala — Hyderabad  
+Intermediate MPC — 93.9%  
+
 
 ---
 
 ## 📜 Certifications
 
-- Accenture Go for Gold – Gold Level Certification (2500+ points)  
-- Cisco Networking Academy – Python Essentials  
+- Accenture Go for Gold — Gold Level Certification  
+- Cisco Networking Academy — Python Essentials  
+
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're interested in:
+Interested in:
 
-- Building scalable web applications  
-- Solving real-world healthcare problems  
-- Embedded systems and IoT innovation  
-- Hackathons and collaborative tech projects  
+- Backend systems
+- AI tools
+- Full-stack apps
+- Hackathons
+- Real-world tech projects
 
 Feel free to connect.
