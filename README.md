@@ -70,7 +70,7 @@ I enjoy building projects that are practical, reliable, and designed for real us
 
 ### 🔍 LLMTap — Local-First LLM Observability Platform
 > TypeScript, React, Fastify, SQLite, SSE, OpenTelemetry  
-> https://github.com/DivyaanshuXD/LLMTap
+> 🔗 https://github.com/DivyaanshuXD/LLMTap
 
 - Built zero-config observability tool for LLM apps with tracing, cost analytics, and monitoring across multiple providers  
 - Developed ES-Proxy based SDK to intercept API calls without code changes  
@@ -83,7 +83,7 @@ I enjoy building projects that are practical, reliable, and designed for real us
 
 ### 🩸 Raksetu — Smart Blood Donation Network
 > React, Node.js, Firebase, Twilio, ML, PWA, Maps API  
-> https://www.raksetu.live
+> 🔗 https://www.raksetu.live
 
 - Built real-time blood donation platform with nationwide request tracking and donor notifications  
 - Developed ML-based donor retention model (95.25% accuracy) for churn prediction  
@@ -95,8 +95,8 @@ I enjoy building projects that are practical, reliable, and designed for real us
 ---
 
 ### 🚗 Child Safe O2 — Vehicle Child Safety System
-> Embedded, PIR Sensor, GSM, Relay Control
-> https://github.com/DivyaanshuXD/ChildSafe-O2
+> Embedded, PIR Sensor, GSM, Relay Control  
+> 🔗 https://github.com/DivyaanshuXD/ChildSafe-O2
 
 - Developed embedded safety system as part of a team project to detect child presence inside locked vehicles  
 - Integrated GSM module for automatic SMS and call alerts  
