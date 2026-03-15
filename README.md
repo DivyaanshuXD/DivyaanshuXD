@@ -39,7 +39,7 @@ I enjoy building projects that are practical, reliable, and designed for real us
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql,java,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql"/>
 </p>
 
 ### 🌐 Frontend & Backend
@@ -96,7 +96,7 @@ I enjoy building projects that are practical, reliable, and designed for real us
 
 ### 🚗 Child Safe O2 — Vehicle Child Safety System
 > Embedded, PIR Sensor, GSM, Relay Control
-
+> https://github.com/DivyaanshuXD/ChildSafe-O2
 - Developed embedded safety system as part of a team project to detect child presence inside locked vehicles  
 - Integrated GSM module for automatic SMS and call alerts  
 - Designed relay-based ventilation system independent of vehicle ignition  
