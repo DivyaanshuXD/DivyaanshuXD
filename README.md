@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Divyaanshu Tonk</h1>
+<h1 align="center">Divyaanshu Tonk</h1>
 
 <p align="center">
 Computer Science Student • Full-Stack Developer • Backend & AI Systems
 </p>
 
 <p align="center">
-📍 Hyderabad, India • 📧 divyaanshutonk@gmail.com • 📞 +91 7032923464
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Systems+%7C+AI+Tools+%7C+Real-Time+Apps;Building+Projects+with+Real+Impact;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Systems+%7C+AI+Tools+%7C+Real-Time+Apps;Building+Projects+That+Solve+Real+Problems;Always+Learning+Always+Building" />
 </p>
 
 <p align="center">
@@ -28,28 +24,25 @@ Computer Science Student • Full-Stack Developer • Backend & AI Systems
 <tr>
 <td width="55%" valign="top">
 
-## 🚀 About Me
+## About Me
 
-- Computer Science Engineering student at CMR College
-- Interested in backend systems, AI tools, and real-time platforms
-- Build projects that solve real problems
-- Focus on scalable architecture and clean logic
-- Enjoy hackathons and system design
+Computer Science undergraduate at CMR College.
 
-### ⚙️ Skills
+Interested in
 
-- Backend APIs
+- Backend systems
 - Full-stack apps
-- Database design
-- System design
-- Embedded projects
-- AI / ML basics
+- AI tools
+- Real-time platforms
+- Embedded systems
+
+I build projects focused on real-world use, performance, and clean architecture.
 
 </td>
 
 <td width="45%" valign="top">
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,express,mongodb,mysql,sqlite,firebase,git,linux,vscode" />
 
@@ -60,65 +53,64 @@ Computer Science Student • Full-Stack Developer • Backend & AI Systems
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🔍 LLMTap — Local-First LLM Observability Platform
-- Tracing, cost analytics, model monitoring
-- ES-Proxy SDK for API interception
-- Fastify + SQLite backend
-- React dashboard + CLI launcher
+### LLMTap — LLM Observability Platform
+TypeScript • React • Fastify • SQLite • OpenTelemetry  
 
-🔗 https://github.com/DivyaanshuXD/LLMTap
+- Real-time tracing & cost analytics
+- Proxy SDK for API interception
+- Fastify backend + dashboard
+- CLI launcher
+
+https://github.com/DivyaanshuXD/LLMTap
 
 ---
 
-### 🩸 Raksetu — Smart Blood Donation Network
+### Raksetu — Blood Donation Network
+React • Node • Firebase • Twilio • ML • Maps
+
 - Real-time donor matching
-- ML donor retention (95% accuracy)
-- Twilio alert system
-- Live map + PWA
+- ML churn prediction
+- SMS alert system
+- Progressive Web App
 
-🔗 https://www.raksetu.live
-
----
-
-### 🚗 Child Safe O2 — Vehicle Safety System
-- PIR detection + GSM alerts
-- Relay ventilation system
-- Independent power circuit
-- 1st Place IGNITE 2026
-
-🔗 https://github.com/DivyaanshuXD/ChildSafe-O2
+https://www.raksetu.live
 
 ---
 
-## 🏆 Achievements
+### Child Safe O2 — Vehicle Safety System
+Embedded • PIR • GSM • Relay
 
-🥇 IGNITE 2026 — 1st Place (860+ teams)  
-🥉 Hack-A-Cure VIT — 3rd Place  
-🌍 Social Impact Award — Global Finalist  
+- Child detection inside locked cars
+- Automatic SMS alerts
+- Ventilation control
+- IGNITE 2026 Winner
+
+https://github.com/DivyaanshuXD/ChildSafe-O2
 
 ---
 
-## 🎓 Education
+## Achievements
+
+1st Place — IGNITE 2026  
+3rd Place — Hack-A-Cure VIT  
+Global Finalist — Social Impact Award  
+
+---
+
+## Education
 
 CMR College of Engineering & Technology  
 B.Tech Computer Science  
-CGPA: 8.0  
+CGPA 8.0
 
 Sri Chaitanya Junior Kalasala  
-Intermediate MPC — 93.9%
+MPC 93.9%
 
 ---
 
-## 📜 Certifications
-
-- Accenture Go for Gold — Gold Level
-- Cisco Python Essentials
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -130,10 +122,10 @@ Intermediate MPC — 93.9%
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
 LinkedIn  
 https://linkedin.com/in/divyaanshutonk  
 
-GitHub  
-https://github.com/DivyaanshuXD
+Email  
+divyaanshutonk@gmail.com
