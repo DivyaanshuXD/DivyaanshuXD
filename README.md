@@ -1,20 +1,19 @@
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════ -->
-<!--                        HEADER                          -->
-<!-- ════════════════════════════════════════════════════════ -->
+<!-- HEADER BANNER -->
+<img width="100%" src="./assets/header.svg"/>
 
-# ⚡ DIVYAANSHU TONK
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full-Stack+Developer+%7C+Backend+%26+AI+Systems;Building+Scalable+Systems+%26+Developer+Tools;Real-Time+Platforms+%7C+System+Design+%7C+Performance)](https://github.com/DivyaanshuXD)
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Scalable+Systems+%26+Developer+Tools;Backend+%7C+AI+Tools+%7C+Real-Time+Platforms+%7C+System+Design" />
 
 <br/>
 
+<!-- QUICK LINKS -->
 <a href="https://linkedin.com/in/divyaanshutonk"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:divyaanshutonk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 
-<br/><br/>
+<br/>
 
 `📍 Hyderabad, Telangana` &nbsp; `📧 divyaanshutonk@gmail.com` &nbsp; `📞 +91 7032923464`
 
@@ -24,13 +23,13 @@
 
 </div>
 
----
+<br/>
 
-<!-- ════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                         -->
-<!-- ════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
 
-## 🚀 About Me
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **About Me**
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 I'm a **Computer Science undergraduate** focused on building scalable systems, developer tools, and real-world applications.
 
@@ -40,19 +39,21 @@ role: Full-Stack Developer
 location: Hyderabad, India
 education: B.Tech CSE @ CMRCET (CGPA: 8.0)
 currently_building: LLM Observability Tools & Real-Time Platforms
-interests:
-  - Full-stack & Backend Engineering
-  - AI-based Systems & Developer Tooling
-  - Real-time Platforms & System Design
-  - Performance Optimization & Scalability
-motto: Building projects designed for real-world usage
 ```
+
+**What drives me:**
+
+- 🏗️ &nbsp; Full-stack & Backend engineering
+- 🤖 &nbsp; AI-based systems & developer tooling
+- ⚡ &nbsp; Real-time platforms & system design
+- 🎯 &nbsp; Performance optimization & scalability
+- 🧪 &nbsp; Building projects designed for **real-world usage**
+
+<br clear="right"/>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                        -->
-<!-- ════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
@@ -60,11 +61,21 @@ motto: Building projects designed for real-world usage
 
 <table>
 <tr>
-<td align="center" width="160"><h4>💻 Languages</h4></td>
-<td align="center" width="160"><h4>🌐 Frontend</h4></td>
-<td align="center" width="160"><h4>⚙️ Backend</h4></td>
-<td align="center" width="160"><h4>🗄️ Databases</h4></td>
-<td align="center" width="160"><h4>🧰 Tools</h4></td>
+<td align="center" width="160">
+<h4>💻 Languages</h4>
+</td>
+<td align="center" width="160">
+<h4>🌐 Frontend</h4>
+</td>
+<td align="center" width="160">
+<h4>⚙️ Backend</h4>
+</td>
+<td align="center" width="160">
+<h4>🗄️ Databases</h4>
+</td>
+<td align="center" width="160">
+<h4>🧰 Tools</h4>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -115,24 +126,27 @@ motto: Building projects designed for real-world usage
 
 ---
 
-<!-- ════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                    -->
-<!-- ════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
 
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
+<br/>
 
+<!-- PROJECT 1: LLMTap -->
 <a href="https://github.com/DivyaanshuXD/LLMTap">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="47%"/>
 </a>&nbsp;&nbsp;
+<!-- PROJECT 2: HackACure -->
 <a href="https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=HackACure-RAG-Based-ChatBot&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="47%"/>
 </a>
 
+<br/><br/>
+
 </div>
 
-<br/>
+<!-- PROJECT DETAILS -->
 
 <details>
 <summary><b>🔍 LLMTap — Local-First LLM Observability Platform</b></summary>
@@ -195,8 +209,8 @@ motto: Building projects designed for real-world usage
 <div align="center">
 
 ![Embedded](https://img.shields.io/badge/Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
-![PIR](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square)
-![GSM](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square)
+![PIR](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=sensor&logoColor=white)
+![GSM](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=sim&logoColor=white)
 
 </div>
 
@@ -214,9 +228,7 @@ motto: Building projects designed for real-world usage
 
 ---
 
-<!-- ════════════════════════════════════════════════════════ -->
-<!--                     ACHIEVEMENTS                      -->
-<!-- ════════════════════════════════════════════════════════ -->
+<!-- ACHIEVEMENTS -->
 
 <h2 align="center">🏆 Achievements</h2>
 
@@ -225,19 +237,19 @@ motto: Building projects designed for real-world usage
 <table>
 <tr>
 <td align="center" width="280">
-<img src="https://img.shields.io/badge/🥇_1st_Place-FFD700?style=for-the-badge"/><br/><br/>
+<img src="https://img.shields.io/badge/1st_Place-FFD700?style=for-the-badge&logoColor=black" /><br/><br/>
 <b>IGNITE 2026</b><br/>
 National Level Project Expo<br/>
 <sub>🏅 1st among <b>860+ teams</b></sub>
 </td>
 <td align="center" width="280">
-<img src="https://img.shields.io/badge/🥉_3rd_Place-CD7F32?style=for-the-badge"/><br/><br/>
+<img src="https://img.shields.io/badge/3rd_Place-CD7F32?style=for-the-badge&logoColor=black" /><br/><br/>
 <b>Hack-A-Cure, VIT Chennai</b><br/>
 <a href="https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot">Medical RAG Bot</a><br/>
 <sub>🏅 Competitive hackathon win</sub>
 </td>
 <td align="center" width="280">
-<img src="https://img.shields.io/badge/🌍_Global_Finalist-1a73e8?style=for-the-badge"/><br/><br/>
+<img src="https://img.shields.io/badge/Global_Finalist-1a73e8?style=for-the-badge&logoColor=white" /><br/><br/>
 <b>Social Impact Award</b><br/>
 Raksetu Platform<br/>
 <sub>🏅 Top <b>24 of 464</b> teams worldwide</sub>
@@ -249,9 +261,7 @@ Raksetu Platform<br/>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════ -->
-<!--               EDUCATION & CERTIFICATIONS               -->
-<!-- ════════════════════════════════════════════════════════ -->
+<!-- EDUCATION & CERTIFICATIONS -->
 
 <h2 align="center">🎓 Education & Certifications</h2>
 
@@ -270,64 +280,63 @@ Raksetu Platform<br/>
 
 <br/>
 
-![Accenture](https://img.shields.io/badge/Accenture-Go_for_Gold_|_Gold_Level-A100FF?style=for-the-badge&logo=accenture&logoColor=white)&nbsp;
+![Accenture](https://img.shields.io/badge/Accenture-Go_for_Gold_%7C_Gold_Level-A100FF?style=for-the-badge&logo=accenture&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                        -->
-<!-- ════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&hide_border=false&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=DivyaanshuXD&theme=react&border=00BFFF&ring=00BFFF&fire=FF6600&currStreakLabel=00BFFF&background=0d1117&stroke=00BFFF&sideLabels=00BFFF&dates=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&hide_border=false&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=DivyaanshuXD&theme=react&border=00BFFF&ring=00BFFF&fire=FF6600&currStreakLabel=00BFFF&background=0d1117&stroke=00BFFF&sideLabels=00BFFF&dates=c9d1d9" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&hide_border=false&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&hide_border=false&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DivyaanshuXD&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-
-<br/><br/>
-
+<!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaanshuXD&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
 ---
 
-<!-- ════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                           -->
-<!-- ════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
-Interested in collaborating on **Backend Systems**, **AI Tools**, **Full-Stack Apps**, **Hackathons**, or **Real-World Tech Projects**?
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/divyaanshutonk"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="mailto:divyaanshutonk@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-
-<br/><br/>
-
-⭐ **If you find my work interesting, consider giving a star to my repos!** ⭐
+<p>
+Interested in collaborating on <b>Backend Systems</b>, <b>AI Tools</b>, <b>Full-Stack Apps</b>, <b>Hackathons</b>, or <b>Real-World Tech Projects</b>?
+</p>
 
 <br/>
 
+<a href="https://linkedin.com/in/divyaanshutonk"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>&nbsp;&nbsp;
+<a href="mailto:divyaanshutonk@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>&nbsp;&nbsp;
+<a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
+
+<br/><br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+<br/><br/>
+
 </div>
+
+<!-- FOOTER -->
+<img width="100%" src="./assets/footer.svg"/>
