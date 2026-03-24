@@ -145,7 +145,11 @@ width="420"
 <!-- PROJECT DETAILS -->
 
 <details>
-<summary><b>🔍 LLMTap — Local-First LLM Observability Platform</b></summary>
+<summary>
+<b>🔍 LLMTap — Local-First LLM Observability Platform</b>
+<a href="https://github.com/DivyaanshuXD/LLMTap">
+<img src="https://img.shields.io/badge/View-Project-181717?style=flat-square&logo=github"/></a>
+</summary>
 <br/>
 
 <div align="center">
@@ -157,13 +161,9 @@ width="420"
 ![SSE](https://img.shields.io/badge/SSE-FF6600?style=flat-square&logo=serverless&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B68EE?style=flat-square&logo=opentelemetry&logoColor=white)
 
-<br/><br/>
-
-<a href="https://github.com/DivyaanshuXD/LLMTap">
-<img src="https://img.shields.io/badge/CLICK%20ME-View%20Project-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
+
+> 🔗 [**github.com/DivyaanshuXD/LLMTap**](https://github.com/DivyaanshuXD/LLMTap)
 
 | Feature | Description |
 |:--------|:------------|
@@ -175,9 +175,12 @@ width="420"
 
 </details>
 
-
 <details>
-<summary><b>🩸 Raksetu — Smart Blood Donation Network</b></summary>
+<summary>
+<b>🩸 Raksetu — Smart Blood Donation Network</b>
+<a href="https://www.raksetu.live">
+<img src="https://img.shields.io/badge/View-Project-181717?style=flat-square&logo=github"/></a>
+</summary>
 <br/>
 
 <div align="center">
@@ -189,13 +192,9 @@ width="420"
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-<br/><br/>
-
-<a href="https://www.raksetu.live">
-<img src="https://img.shields.io/badge/CLICK%20ME-View%20Project-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
+
+> 🔗 [**raksetu.live**](https://www.raksetu.live) &nbsp;|&nbsp; 🏆 **Global Finalist — Social Impact Award (Top 24/464)**
 
 | Feature | Description |
 |:--------|:------------|
@@ -207,9 +206,12 @@ width="420"
 
 </details>
 
-
 <details>
-<summary><b>🚗 ChildSafe O2 — Vehicle Child Safety System</b></summary>
+<summary>
+<b>🚗 ChildSafe O2 — Vehicle Child Safety System</b>
+<a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
+<img src="https://img.shields.io/badge/View-Project-181717?style=flat-square&logo=github"/></a>
+</summary>
 <br/>
 
 <div align="center">
@@ -218,13 +220,9 @@ width="420"
 ![PIR](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=sensor&logoColor=white)
 ![GSM](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=sim&logoColor=white)
 
-<br/><br/>
-
-<a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
-<img src="https://img.shields.io/badge/CLICK%20ME-View%20Project-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
+
+> 🔗 [**github.com/DivyaanshuXD/ChildSafe-O2**](https://github.com/DivyaanshuXD/ChildSafe-O2)
 
 | Feature | Description |
 |:--------|:------------|
