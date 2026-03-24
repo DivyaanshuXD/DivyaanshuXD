@@ -83,7 +83,6 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 <img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub>Java</sub><br/>
 <img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/><sub>JavaScript</sub><br/>
 <img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/><sub>TypeScript</sub><br/>
-<img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/><sub>SQL</sub>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub>React</sub><br/>
@@ -107,7 +106,6 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 <img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub>Git</sub><br/>
 <img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub>GitHub</sub><br/>
 <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><sub>VS Code</sub><br/>
-<img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><sub>Linux</sub>
 </td>
 </tr>
 </table>
@@ -138,8 +136,8 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="47%"/>
 </a>&nbsp;&nbsp;
 <!-- PROJECT 2: HackACure -->
-<a href="https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=HackACure-RAG-Based-ChatBot&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="47%"/>
+<a href="https://github.com/DivyaanshuXD/Raksetu">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=Raksetu&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="47%"/>
 </a>
 
 <br/><br/>
