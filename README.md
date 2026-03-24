@@ -1,10 +1,22 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BFFF,100:1a73e8&height=220&section=header&text=Divyaanshu%20Tonk&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20AI%20Systems&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Scalable+Systems+%26+Developer+Tools;Backend+%7C+AI+Tools+%7C+Real-Time+Platforms+%7C+System+Design" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/><br/>
+
+<a href="https://github.com/DivyaanshuXD">
+  <img src="https://img.shields.io/badge/%E2%9A%A1-DIVYAANSHU_TONK-00BFFF?style=for-the-badge&labelColor=0d1117&color=00BFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMDBCRkZGIj48cGF0aCBkPSJNMTMgMTBoLTNsMyAxMC01LTctM0gxMmwtMy0xMCA1IDd6Ii8+PC9zdmc+"/>
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%3C%2F%3E+Full-Stack+Developer" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Backend+Systems+%7C+AI+Tools+%7C+Real-Time+Platforms+%7C+System+Design;Building+Scalable+Systems+%26+Developer+Tools;Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Shipping" />
 
 <br/>
 
@@ -21,11 +33,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS"/>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **About Me**
 
@@ -53,7 +71,9 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
@@ -126,7 +146,9 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🌟 Featured Projects</h2>
 
@@ -228,7 +250,9 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ACHIEVEMENTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🏆 Achievements</h2>
 
@@ -261,7 +285,9 @@ Raksetu Platform<br/>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- EDUCATION & CERTIFICATIONS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🎓 Education & Certifications</h2>
 
@@ -287,7 +313,9 @@ Raksetu Platform<br/>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -314,7 +342,9 @@ Raksetu Platform<br/>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -345,7 +375,15 @@ Interested in collaborating on <b>Backend Systems</b>, <b>AI Tools</b>, <b>Full-
 
 <br/><br/>
 
-</div>
+<!-- FOOTER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,50:00BFFF,100:0d1117&height=120&section=footer"/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=00BFFF&center=true&vCenter=true&repeat=true&width=435&height=25&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+build+something+great.+%E2%9C%A8" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
