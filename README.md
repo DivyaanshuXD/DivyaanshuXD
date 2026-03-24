@@ -126,18 +126,16 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 <!-- FEATURED PROJECTS -->
 
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center">🌟 Featured Project</h2>
 
 <div align="center">
 <br/>
 
-<!-- PROJECT 1: LLMTap -->
 <a href="https://github.com/DivyaanshuXD/LLMTap">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="47%"/>
-</a>&nbsp;&nbsp;
-<!-- PROJECT 2: HackACure -->
-<a href="https://github.com/DivyaanshuXD/Raksetu">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=Raksetu&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="47%"/>
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF"
+width="420"
+/>
 </a>
 
 <br/><br/>
