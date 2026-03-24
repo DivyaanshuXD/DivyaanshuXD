@@ -157,9 +157,13 @@ width="420"
 ![SSE](https://img.shields.io/badge/SSE-FF6600?style=flat-square&logo=serverless&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B68EE?style=flat-square&logo=opentelemetry&logoColor=white)
 
-</div>
+<br/><br/>
 
-> 🔗 [**github.com/DivyaanshuXD/LLMTap**](https://github.com/DivyaanshuXD/LLMTap)
+<a href="https://github.com/DivyaanshuXD/LLMTap">
+<img src="https://img.shields.io/badge/CLICK%20ME-View%20Project-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 | Feature | Description |
 |:--------|:------------|
@@ -170,6 +174,7 @@ width="420"
 | 🖥️ **Dashboard & CLI** | React dashboard + CLI launcher via `npx` |
 
 </details>
+
 
 <details>
 <summary><b>🩸 Raksetu — Smart Blood Donation Network</b></summary>
@@ -184,9 +189,13 @@ width="420"
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-</div>
+<br/><br/>
 
-> 🔗 [**raksetu.live**](https://www.raksetu.live) &nbsp;|&nbsp; 🏆 **Global Finalist — Social Impact Award (Top 24/464)**
+<a href="https://www.raksetu.live">
+<img src="https://img.shields.io/badge/CLICK%20ME-View%20Project-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 | Feature | Description |
 |:--------|:------------|
@@ -198,6 +207,7 @@ width="420"
 
 </details>
 
+
 <details>
 <summary><b>🚗 ChildSafe O2 — Vehicle Child Safety System</b></summary>
 <br/>
@@ -208,9 +218,13 @@ width="420"
 ![PIR](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=sensor&logoColor=white)
 ![GSM](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=sim&logoColor=white)
 
-</div>
+<br/><br/>
 
-> 🔗 [**github.com/DivyaanshuXD/ChildSafe-O2**](https://github.com/DivyaanshuXD/ChildSafe-O2)
+<a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
+<img src="https://img.shields.io/badge/CLICK%20ME-View%20Project-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 | Feature | Description |
 |:--------|:------------|
