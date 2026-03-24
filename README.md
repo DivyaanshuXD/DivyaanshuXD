@@ -146,9 +146,8 @@ width="420"
 
 <details>
 <summary>
-<b>🔍 LLMTap — Local-First LLM Observability Platform</b>
-<a href="https://github.com/DivyaanshuXD/LLMTap">
-<img src="https://img.shields.io/badge/CLICK-ME-00BFFF?style=flat-square"/></summary>
+<b>🔍 LLMTap — Local-First LLM Observability Platform</b>&nbsp;&nbsp;<sup>click to expand</sup>
+</summary>
 <br/>
 
 <div align="center">
@@ -176,9 +175,8 @@ width="420"
 
 <details>
 <summary>
-<b>🩸 Raksetu — Smart Blood Donation Network</b>
-<a href="https://www.raksetu.live">
-<img src="https://img.shields.io/badge/CLICK-ME-00BFFF?style=flat-square"/></summary>
+<b>🩸 Raksetu — Smart Blood Donation Network</b>&nbsp;&nbsp;<sup>click to expand</sup>
+</summary>
 <br/>
 
 <div align="center">
@@ -206,9 +204,8 @@ width="420"
 
 <details>
 <summary>
-<b>🚗 ChildSafe O2 — Vehicle Child Safety System</b>
-<a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
-<img src="https://img.shields.io/badge/CLICK-ME-00BFFF?style=flat-square"/></summary>
+<b>🚗 ChildSafe O2 — Vehicle Child Safety System</b>&nbsp;&nbsp;<sup>click to expand</sup>
+</summary>
 <br/>
 
 <div align="center">
