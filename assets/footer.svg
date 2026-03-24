@@ -1,0 +1,90 @@
+<svg width="100%" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0a1628"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="lineGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#00BFFF"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00BFFF"/>
+      <stop offset="100%" style="stop-color:#1a73e8"/>
+    </linearGradient>
+    <filter id="glowF">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="120" fill="url(#bgf)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.06" stroke="#00BFFF" stroke-width="0.5">
+    <line x1="0" y1="30" x2="800" y2="30"/>
+    <line x1="0" y1="60" x2="800" y2="60"/>
+    <line x1="0" y1="90" x2="800" y2="90"/>
+    <line x1="200" y1="0" x2="200" y2="120"/>
+    <line x1="400" y1="0" x2="400" y2="120"/>
+    <line x1="600" y1="0" x2="600" y2="120"/>
+  </g>
+
+  <!-- Waving line top -->
+  <path d="M0,8 Q200,2 400,8 Q600,14 800,8" stroke="url(#lineGradF)" stroke-width="1.5" fill="none" opacity="0.7">
+    <animate attributeName="d" values="M0,8 Q200,2 400,8 Q600,14 800,8;M0,8 Q200,14 400,8 Q600,2 800,8;M0,8 Q200,2 400,8 Q600,14 800,8" dur="5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Floating particles -->
+  <circle cx="100" cy="60" r="1.5" fill="#00BFFF" opacity="0.3">
+    <animate attributeName="cy" values="60;50;60" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="60" r="1.5" fill="#1a73e8" opacity="0.3">
+    <animate attributeName="cy" values="60;70;60" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="100" r="1" fill="#00BFFF" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Central divider line with glow -->
+  <line x1="200" y1="55" x2="600" y2="55" stroke="url(#lineGradF)" stroke-width="0.8" opacity="0.4"/>
+
+  <!-- Quote text -->
+  <text
+    x="400" y="50"
+    text-anchor="middle"
+    font-family="'Courier New', monospace"
+    font-size="12"
+    letter-spacing="2"
+    fill="#888888"
+  >
+    &quot; The best way to predict the future is to build it. &quot;
+  </text>
+
+  <!-- Footer credit -->
+  <text
+    x="400" y="80"
+    text-anchor="middle"
+    font-family="'Courier New', monospace"
+    font-size="11"
+    letter-spacing="3"
+    fill="url(#textGradF)"
+    filter="url(#glowF)"
+    opacity="0.85"
+  >
+    — DIVYAANSHU TONK
+  </text>
+
+  <!-- Bottom wave -->
+  <path d="M0,112 Q200,106 400,112 Q600,118 800,112" stroke="url(#lineGradF)" stroke-width="1.5" fill="none" opacity="0.7">
+    <animate attributeName="d" values="M0,112 Q200,106 400,112 Q600,118 800,112;M0,112 Q200,118 400,112 Q600,106 800,112;M0,112 Q200,106 400,112 Q600,118 800,112" dur="5s" repeatCount="indefinite"/>
+  </path>
+</svg>
