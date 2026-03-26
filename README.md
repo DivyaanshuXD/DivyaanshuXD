@@ -331,11 +331,7 @@ Interested in collaborating on <b>Backend Systems</b>, <b>AI Tools</b>, <b>Full-
 <br/><br/>
 
 <!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <br/><br/>
 
