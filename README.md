@@ -330,8 +330,7 @@ Interested in collaborating on <b>Backend Systems</b>, <b>AI Tools</b>, <b>Full-
 
 <br/><br/>
 
-<!-- SNAKE ANIMATION -->
-  ![Snake animation](https://github.com/DivyaanshuXD/DivyaanshuXD/blob/output/github-contribution-grid-snake.svg)
+
 <br/><br/>
 
 </div>
