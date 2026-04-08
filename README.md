@@ -1,34 +1,34 @@
-&lt;img width="100%" src="./assets/header.svg"/&gt;
+<img width="100%" src="./assets/header.svg"/>
 
-&lt;!-- Animated Typing Introduction --&gt;
-&lt;div align="center"&gt;
+<!-- Animated Typing Introduction -->
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyaanshu+Tonk;CS+Undergrad+%7C+Full-Stack+Dev;LLM+%26+AI+Systems+Engineer;Building+Production-Grade+Software)](https://git.io/typing-svg)
 
-&lt;/div&gt;
+</div>
 
-&lt;!-- Quick Badge Bar --&gt;
-&lt;p align="center"&gt;
-  &lt;a href="mailto:divyaanshutonk@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/divyaanshutonk"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/DivyaanshuXD"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/&gt;
-  &lt;/a&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile Views"/&gt;
-&lt;/p&gt;
+<!-- Quick Badge Bar -->
+<p align="center">
+  <a href="mailto:divyaanshutonk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/divyaanshutonk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/DivyaanshuXD">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-&lt;!-- Animated Divider --&gt;
-&lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &lt;img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"&gt; **About Me**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="60%" valign="top"&gt;
+<table>
+<tr>
+<td width="60%" valign="top">
 
 **CS Undergraduate** at **CMR College of Engineering & Technology** (CGPA: 7.93)  
 📍 Hyderabad, Telangana, India  
@@ -42,31 +42,31 @@ I architect **production-grade, cloud-backed software** spanning:
 
 **Currently obsessed with:** LLM tracing, monorepo architecture, and systems that scale to 100k+ users.
 
-&lt;/td&gt;
-&lt;td width="40%" align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="100%"/&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+<td width="40%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="100%"/>
+</td>
+</tr>
+</table>
 
-&lt;!-- Animated Divider --&gt;
-&lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## &lt;img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"&gt; **GitHub Analytics**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics**
 
-&lt;div align="center"&gt;
+<div align="center">
   
-| &lt;img src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" width="48%"/&gt; | &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaanshuXD&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%"/&gt; |
+| <img src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" width="48%"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaanshuXD&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%"/> |
 |---|---|
 
-&lt;/div&gt;
+</div>
 
-&lt;div align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=DivyaanshuXD&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%"/&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyaanshuXD&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%"/>
+</div>
 
-&lt;!-- Animated Divider --&gt;
-&lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 **Tech Arsenal**
 
@@ -104,14 +104,14 @@ I architect **production-grade, cloud-backed software** spanning:
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white&labelColor=FF6B6B)
 ![LLM](https://img.shields.io/badge/LLM-Integration-00D9FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=00D9FF)
 
-&lt;!-- Animated Divider --&gt;
-&lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 **Signature Projects**
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="33%" valign="top"&gt;
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🧠 LLMTap
 **Local-First LLM Observability**
@@ -125,8 +125,8 @@ I architect **production-grade, cloud-backed software** spanning:
 - `npx llmtap` instant launch
 - OTLP export to Datadog/Grafana
 
-&lt;/td&gt;
-&lt;td width="33%" valign="top"&gt;
+</td>
+<td width="33%" valign="top">
 
 ### 🩸 Raksetu
 **Smart Blood Donation Network**
@@ -141,8 +141,8 @@ I architect **production-grade, cloud-backed software** spanning:
 - Twilio SMS emergency alerts
 - Multilingual PWA with offline support
 
-&lt;/td&gt;
-&lt;td width="33%" valign="top"&gt;
+</td>
+<td width="33%" valign="top">
 
 ### 🚗 Child Safe O₂
 **Vehicle Child Safety IoT**
@@ -156,16 +156,16 @@ I architect **production-grade, cloud-backed software** spanning:
 - Independent relay ventilation circuit
 - Multi-scenario heat testing validated
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+</tr>
+</table>
 
-&lt;!-- Animated Divider --&gt;
-&lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎖️ **Honors & Awards**
 
-&lt;div align="center"&gt;
+<div align="center">
 
 | 🥇 **IGNITE 2026** | 🌍 **Social Impact Award** | 🏥 **Hack-A-Cure** |
 |:---:|:---:|:---:|
@@ -173,28 +173,28 @@ I architect **production-grade, cloud-backed software** spanning:
 | National Project Expo | Top 24 of 464 teams | VIT Chennai |
 | Among 860+ teams | Raksetu Platform | Medical RAG-bot |
 
-&lt;/div&gt;
+</div>
 
 ### 📜 Certifications
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) **Generative AI (GAI-L)** — 45-hour program, 22 skill badges
 - ![Accenture](https://img.shields.io/badge/Accenture-000000?style=flat&logo=accenture&logoColor=white) **Go for Gold** — Gold Level (2500+ points)
 - ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) **Python Essentials**
 
-&lt;!-- Animated Divider --&gt;
-&lt;img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"&gt;
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 **Let's Connect**
 
-&lt;div align="center"&gt;
+<div align="center">
 
 [![Email](https://img.shields.io/badge/📧_divyaanshutonk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:divyaanshu.tonk@gmail.com)
 [![Phone](https://img.shields.io/badge/📱_+91_70329_23464-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+917032923464)
 
 **Open for:** Full-time opportunities • Freelance projects • Open source collaborations • Hackathons
 
-&lt;/div&gt;
+</div>
 
-&lt;img width="100%" src="./assets/footer.svg"/&gt;
+<img width="100%" src="./assets/footer.svg"/>
 
-&lt;!-- Hidden GIF for animation flavor --&gt;
-&lt;img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/&gt;
+<!-- Hidden GIF for animation flavor -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
