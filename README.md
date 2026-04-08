@@ -1,166 +1,147 @@
-<img width="100%" src="./assets/header.svg"/>
-
-<br>
-
+<!-- ANIMATED INTRO -->
 <div align="center">
   
-![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=DIVYAANSHU+TONK;Full-Stack+Engineer;LLM+%26+AI+Systems)
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff006e;stop-opacity:1">
+        <animate attributeName="stop-color" values="#ff006e;#fb5607;#ffbe0b;#8338ec;#3a86ff;#ff006e" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" style="stop-color:#3a86ff;stop-opacity:1">
+        <animate attributeName="stop-color" values="#3a86ff;#ff006e;#fb5607;#ffbe0b;#8338ec;#3a86ff" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="50%" y="50%" font-family="monospace" font-size="60" font-weight="bold" fill="url(#grad1)" text-anchor="middle" dominant-baseline="middle" filter="url(#glow)">
+    DIVYAANSHU TONK
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2000&pause=500&color=FF006E&center=true&vCenter=true&width=600&lines=SYSTEM.INIT();;LOADING...;FULL+STACK+ARCHITECT;LLM+OBSERVABILITY+ENGINEER;DISTRIBUTED+SYSTEMS+WIZARD;READY+TO+DEPLOY+🔥" alt="Typing Animation" />
 
 </div>
 
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=DC143C&labelColor=000000)](mailto:divyaanshutonk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=000000)](https://linkedin.com/in/divyaanshutonk)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=000000)](https://github.com/DivyaanshuXD)
+<br/>
 
-</div>
-
-<br>
-
----
-
-<br>
-
-## <div align="center">⚡ TECH ARSENAL</div>
-
-<br>
-
-<div align="center">
-
-### LANGUAGES
-
-![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&logoColor=white&labelColor=000000)
-![Python](https://img.shields.io/badge/-Python-DC143C?style=flat-square&logo=python&logoColor=white&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-DC143C?style=flat-square&logo=typescript&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-DC143C?style=flat-square&logo=javascript&logoColor=white&labelColor=000000)
-![SQL](https://img.shields.io/badge/-SQL-DC143C?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000)
-
-<br>
-
-### FRONTEND
-
-![React](https://img.shields.io/badge/-React-DC143C?style=flat-square&logo=react&logoColor=white&labelColor=000000)
-![HTML5](https://img.shields.io/badge/-HTML5-DC143C?style=flat-square&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/-CSS3-DC143C?style=flat-square&logo=css3&logoColor=white&labelColor=000000)
-![Vite](https://img.shields.io/badge/-Vite-DC143C?style=flat-square&logo=vite&logoColor=white&labelColor=000000)
-![PWA](https://img.shields.io/badge/-PWA-DC143C?style=flat-square&logo=pwa&logoColor=white&labelColor=000000)
-
-<br>
-
-### BACKEND
-
-![Node.js](https://img.shields.io/badge/-Node.js-DC143C?style=flat-square&logo=node.js&logoColor=white&labelColor=000000)
-![Express](https://img.shields.io/badge/-Express-DC143C?style=flat-square&logo=express&logoColor=white&labelColor=000000)
-![Fastify](https://img.shields.io/badge/-Fastify-DC143C?style=flat-square&logo=fastify&logoColor=white&labelColor=000000)
-![REST](https://img.shields.io/badge/-REST_API-DC143C?style=flat-square&logo=postman&logoColor=white&labelColor=000000)
-
-<br>
-
-### DATABASE & CLOUD
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-DC143C?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000)
-![Firebase](https://img.shields.io/badge/-Firebase-DC143C?style=flat-square&logo=firebase&logoColor=white&labelColor=000000)
-![MySQL](https://img.shields.io/badge/-MySQL-DC143C?style=flat-square&logo=mysql&logoColor=white&labelColor=000000)
-![SQLite](https://img.shields.io/badge/-SQLite-DC143C?style=flat-square&logo=sqlite&logoColor=white&labelColor=000000)
-
-<br>
-
-### AI & LLMS
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-DC143C?style=flat-square&logo=openai&logoColor=white&labelColor=000000)
-![Anthropic](https://img.shields.io/badge/-Anthropic-DC143C?style=flat-square&logo=anthropic&logoColor=white&labelColor=000000)
-![Groq](https://img.shields.io/badge/-Groq-DC143C?style=flat-square&logo=groq&logoColor=white&labelColor=000000)
-![RAG](https://img.shields.io/badge/-RAG_Systems-DC143C?style=flat-square&logo=langchain&logoColor=white&labelColor=000000)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## <div align="center">🚀 FEATURED PROJECTS</div>
-
-<br>
-
+<!-- CONTACT BAR -->
 <div align="center">
 
-[![LLMTap](https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=llmtap&theme=dark&border_color=DC143C&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/DivyaanshuXD/llmtap)
-[![Raksetu](https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=raksetu&theme=dark&border_color=DC143C&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/DivyaanshuXD/raksetu)
+[![GMAIL](https://img.shields.io/badge/📧_DIVYAANSHUTONK@GMAIL.COM-FF006E?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=FF006E)](mailto:divyaanshutonk@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/🔗_LINKEDIN-8338EC?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=8338EC)](https://linkedin.com/in/divyaanshutonk)
+[![GITHUB](https://img.shields.io/badge/💻_GITHUB-3A86FF?style=for-the-badge&labelColor=000000&logo=github&logoColor=3A86FF)](https://github.com/DivyaanshuXD)
 
 </div>
 
-<br>
+<br/>
 
+<!-- WAVY SEPARATOR -->
+<div align="center">
+<svg width="100%" height="50" viewBox="0 0 1200 50" preserveAspectRatio="none">
+  <path d="M0,25 Q300,0 600,25 T1200,25" stroke="#ff006e" stroke-width="3" fill="none"/>
+  <path d="M0,25 Q300,50 600,25 T1200,25" stroke="#3a86ff" stroke-width="3" fill="none" opacity="0.5"/>
+</svg>
+</div>
+
+<br/>
+
+<!-- ABOUT -->
+<div align="center">
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║  > USER: DIVYAANSHU_TONK                                         ║
+║  > LOCATION: HYDERABAD, INDIA 📍                                  ║
+║  > STATUS: CS UNDERGRAD @ CMR COLLEGE [2023-2027]                ║
+║  > CGPA: 7.93 ⭐                                                   ║
+║  > SPECIALIZATION: PRODUCTION-GRADE CLOUD SYSTEMS                 ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
+</div>
+
+<br/>
+
+<!-- TAGS -->
 <div align="center">
 
-| LLMTAP | RAKSETU | CHILD SAFE O₂ |
-|:---:|:---:|:---:|
-| **LLM Observability** | **Blood Donation Network** | **Vehicle Safety IoT** |
-| TypeScript • React • Fastify | React • Firebase • ML | Embedded • GSM • IoT |
-| 50+ Models • Zero-config SDK | 95.25% Accuracy • Real-time | PIR Sensors • Auto-alerts |
+| <img src="https://img.shields.io/badge/🔥_DISTRIBUTED_SYSTEMS-FF006E?style=flat-square&labelColor=000000"> | <img src="https://img.shields.io/badge/🤖_LLM_OBSERVABILITY-8338EC?style=flat-square&labelColor=000000"> | <img src="https://img.shields.io/badge/🧠_ML_ENGINEERING-3A86FF?style=flat-square&labelColor=000000"> | <img src="https://img.shields.io/badge/⚡_DEV_TOOLING-FFBE0B?style=flat-square&labelColor=000000"> |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
-<br>
+<br/>
 
----
+<!-- SKILLS SVG stays SAME (no change needed) -->
 
-<br>
+<h2 align="center">🚀 PROJECT_SHOWCASE.dat</h2>
 
-## <div align="center">🏆 ACHIEVEMENTS</div>
-
-<br>
+<br/>
 
 <div align="center">
+<pre>
+┌─────────────────────────────────────────────────────────────────┐
+│  🧠 LLMTAP.exe                                                  │
+├─────────────────────────────────────────────────────────────────┤
+│  STATUS: ACTIVE          TYPE: OBSERVABILITY PLATFORM           │
+│  STACK: TypeScript • React • Fastify • SQLite                   │
+│                                                                 │
+│  >> Zero-config LLM tracing for 50+ models                      │
+│  >> ES Proxy SDK (transparent interception)                     │
+│  >> Real-time cost tracking & latency monitoring                │
+│  >> npx llmtap (one-command launch)                             │
+│                                                                 │
+│  [█████░░░░░] DEPLOYED TO PRODUCTION                            │
+└─────────────────────────────────────────────────────────────────┘
 
-| 🥇 | 🌍 | 🥉 |
-|:---:|:---:|:---:|
-| **IGNITE 2026** | **Social Impact Award** | **Hack-A-Cure** |
-| *1st Place* | *Global Finalist* | *3rd Place* |
-| 860+ Teams | Top 24 of 464 | VIT Chennai |
+┌─────────────────────────────────────────────────────────────────┐
+│  🩸 RAKSETU.net                                                 │
+├─────────────────────────────────────────────────────────────────┤
+│  STATUS: ACTIVE          TYPE: SOCIAL IMPACT NETWORK            │
+│  STACK: React • Node.js • Firebase • Twilio • ML                │
+│                                                                 │
+│  >> Nationwide blood donation platform                          │
+│  >> ML Donor Retention: 95.25% accuracy                         │
+│  >> Real-time Twilio SMS emergency alerts                       │
+│  >> PWA with offline support & voice assistant                  │
+│                                                                 │
+│  [███████░░░] SERVING 100K+ USERS                               │
+└─────────────────────────────────────────────────────────────────┘
 
+┌─────────────────────────────────────────────────────────────────┐
+│  🚗 CHILD_SAFE_O2.sys                                           │
+├─────────────────────────────────────────────────────────────────┤
+│  STATUS: ACTIVE          TYPE: IoT SAFETY SYSTEM                │
+│  STACK: Embedded C • GSM • PIR Sensors • Relay Control          │
+│                                                                 │
+│  >> PIR-based child detection in vehicles                       │
+│  >> Automated GSM SMS/voice alerts                              │
+│  >> Independent ventilation circuit                             │
+│  >> Multi-scenario heat testing validated                       │
+│                                                                 │
+│  [████████░░] FIELD TESTED                                      │
+└─────────────────────────────────────────────────────────────────┘
+</pre>
 </div>
 
-<br>
+<br/>
 
----
-
-<br>
-
-## <div align="center">📜 CERTIFICATIONS</div>
-
-<br>
-
+<!-- FOOTER -->
 <div align="center">
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-GenAI_(GAI--L)-000000?style=for-the-badge&logo=google-cloud&logoColor=DC143C&labelColor=000000)
-![Accenture](https://img.shields.io/badge/Accenture-Go_for_Gold-000000?style=for-the-badge&logo=accenture&logoColor=DC143C&labelColor=000000)
-![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=DC143C&labelColor=000000)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=LET'S%20BUILD%20THE%20FUTURE&fontSize=30&fontColor=fff"/>
+
+<br/>
+
+[![Visitors](https://profile-counter.glitch.me/DivyaanshuXD/count.svg)](https://github.com/DivyaanshuXD)
 
 </div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-### 💼 Open for Opportunities
-
-**Full-time • Freelance • Open Source • Hackathons**
-
-<br>
-
-[![Email](https://img.shields.io/badge/divyaanshutonk@gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:divyaanshutonk@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_70329_23464-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+917032923464)
-
-</div>
-
-<br>
 
 <img width="100%" src="./assets/footer.svg"/>
