@@ -2,61 +2,19 @@
 
 <br>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyaanshu+Tonk;CS+Undergrad+%7C+Full-Stack+Engineer;LLM+%26+AI+Systems+Architect;Building+at+Scale+%F0%9F%9A%80" alt="Typing Animation" />
-</h1>
+<div align="center">
+  
+![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=DIVYAANSHU+TONK;Full-Stack+Engineer;LLM+%26+AI+Systems)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&lines=Hyderabad%2C+India+%F0%9F%93%8D;CMR+College+of+Engineering+%E2%80%9827;CGPA%3A+7.93+%F0%9F%8E%93;Production-Grade+Systems+%7C+Cloud+%7C+AI" alt="Subheading" />
-  </a>
-</p>
+</div>
 
-<br>
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=DC143C&labelColor=000000)](mailto:divyaanshutonk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C&labelColor=000000)](https://linkedin.com/in/divyaanshutonk)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C&labelColor=000000)](https://github.com/DivyaanshuXD)
 
-<p align="center">
-  <a href="mailto:divyaanshutonk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/divyaanshutonk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/DivyaanshuXD">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
-<br>
-<br>
-
----
-
-<br>
-
-## <p align="center">⚡ **About Me**</p>
-
-<table align="center" width="90%">
-<tr>
-<td width="55%" valign="middle">
-
-**Computer Science Undergraduate** passionate about architecting **production-grade, cloud-backed software**. I specialize in:
-
-- 🔹 **Distributed Systems** — Real-time data pipelines & event-driven architectures
-- 🔹 **LLM Observability** — Tracing, monitoring & cost optimization for AI systems  
-- 🔹 **ML Engineering** — Predictive models with 95%+ accuracy in production
-- 🔹 **Dev Tooling** — Zero-config SDKs, CLIs, and developer experience platforms
-
-Currently building tools that help developers monitor and optimize LLM usage at scale.
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=00F0FF&border_radius=12" width="100%" />
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -64,16 +22,58 @@ Currently building tools that help developers monitor and optimize LLM usage at 
 
 <br>
 
-## <p align="center">📊 **GitHub Analytics**</p>
+## <div align="center">⚡ TECH ARSENAL</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaanshuXD&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=F97316&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=C9D1D9&border_radius=12" width="49%" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyaanshuXD&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=20&margin-h=0" width="90%" />
-</p>
+<div align="center">
+
+### LANGUAGES
+
+![Java](https://img.shields.io/badge/-Java-DC143C?style=flat-square&logo=java&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-DC143C?style=flat-square&logo=python&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-DC143C?style=flat-square&logo=typescript&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-DC143C?style=flat-square&logo=javascript&logoColor=white&labelColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-DC143C?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000)
+
+<br>
+
+### FRONTEND
+
+![React](https://img.shields.io/badge/-React-DC143C?style=flat-square&logo=react&logoColor=white&labelColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-DC143C?style=flat-square&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/-CSS3-DC143C?style=flat-square&logo=css3&logoColor=white&labelColor=000000)
+![Vite](https://img.shields.io/badge/-Vite-DC143C?style=flat-square&logo=vite&logoColor=white&labelColor=000000)
+![PWA](https://img.shields.io/badge/-PWA-DC143C?style=flat-square&logo=pwa&logoColor=white&labelColor=000000)
+
+<br>
+
+### BACKEND
+
+![Node.js](https://img.shields.io/badge/-Node.js-DC143C?style=flat-square&logo=node.js&logoColor=white&labelColor=000000)
+![Express](https://img.shields.io/badge/-Express-DC143C?style=flat-square&logo=express&logoColor=white&labelColor=000000)
+![Fastify](https://img.shields.io/badge/-Fastify-DC143C?style=flat-square&logo=fastify&logoColor=white&labelColor=000000)
+![REST](https://img.shields.io/badge/-REST_API-DC143C?style=flat-square&logo=postman&logoColor=white&labelColor=000000)
+
+<br>
+
+### DATABASE & CLOUD
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-DC143C?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000)
+![Firebase](https://img.shields.io/badge/-Firebase-DC143C?style=flat-square&logo=firebase&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/-MySQL-DC143C?style=flat-square&logo=mysql&logoColor=white&labelColor=000000)
+![SQLite](https://img.shields.io/badge/-SQLite-DC143C?style=flat-square&logo=sqlite&logoColor=white&labelColor=000000)
+
+<br>
+
+### AI & LLMS
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-DC143C?style=flat-square&logo=openai&logoColor=white&labelColor=000000)
+![Anthropic](https://img.shields.io/badge/-Anthropic-DC143C?style=flat-square&logo=anthropic&logoColor=white&labelColor=000000)
+![Groq](https://img.shields.io/badge/-Groq-DC143C?style=flat-square&logo=groq&logoColor=white&labelColor=000000)
+![RAG](https://img.shields.io/badge/-RAG_Systems-DC143C?style=flat-square&logo=langchain&logoColor=white&labelColor=000000)
+
+</div>
 
 <br>
 
@@ -81,32 +81,28 @@ Currently building tools that help developers monitor and optimize LLM usage at 
 
 <br>
 
-## <p align="center">🛠️ **Tech Stack**</p>
+## <div align="center">🚀 FEATURED PROJECTS</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM_Ops-00F0FF?style=flat-square" />
-</p>
+[![LLMTap](https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=llmtap&theme=dark&border_color=DC143C&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/DivyaanshuXD/llmtap)
+[![Raksetu](https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=raksetu&theme=dark&border_color=DC143C&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/DivyaanshuXD/raksetu)
+
+</div>
+
+<br>
+
+<div align="center">
+
+| LLMTAP | RAKSETU | CHILD SAFE O₂ |
+|:---:|:---:|:---:|
+| **LLM Observability** | **Blood Donation Network** | **Vehicle Safety IoT** |
+| TypeScript • React • Fastify | React • Firebase • ML | Embedded • GSM • IoT |
+| 50+ Models • Zero-config SDK | 95.25% Accuracy • Real-time | PIR Sensors • Auto-alerts |
+
+</div>
 
 <br>
 
@@ -114,51 +110,19 @@ Currently building tools that help developers monitor and optimize LLM usage at 
 
 <br>
 
-## <p align="center">🚀 **Featured Projects**</p>
+## <div align="center">🏆 ACHIEVEMENTS</div>
 
-<table align="center" width="95%">
-<tr>
-<td width="33%" valign="top" align="center">
+<br>
 
-### 🧠 LLMTap
+<div align="center">
 
-**Local-First LLM Observability**
+| 🥇 | 🌍 | 🥉 |
+|:---:|:---:|:---:|
+| **IGNITE 2026** | **Social Impact Award** | **Hack-A-Cure** |
+| *1st Place* | *Global Finalist* | *3rd Place* |
+| 860+ Teams | Top 24 of 464 | VIT Chennai |
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" />
-
-Zero-config tracing for 50+ LLM models. ES Proxy SDK intercepts calls transparently. `npx llmtap` for instant launch.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🩸 Raksetu
-
-**Smart Blood Donation Network**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/ML-FF6B6B?style=flat" />
-
-Nationwide platform with 95.25% ML donor retention. Twilio SMS alerts. PWA with offline support & multilingual voice assistant.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🚗 Child Safe O₂
-
-**Vehicle Child Safety IoT**
-
-<img src="https://img.shields.io/badge/IoT-00C7B7?style=flat" />
-<img src="https://img.shields.io/badge/Embedded-00979D?style=flat&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/GSM-002E5F?style=flat" />
-
-PIR-based detection, GSM automated alerts, independent relay ventilation. Validated across heat & motion scenarios.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -166,36 +130,17 @@ PIR-based detection, GSM automated alerts, independent relay ventilation. Valida
 
 <br>
 
-## <p align="center">🏆 **Achievements**</p>
+## <div align="center">📜 CERTIFICATIONS</div>
 
-<table align="center" width="80%">
-<tr>
-<td align="center" width="33%">
+<br>
 
-### 🥇 **1st Place**
-**IGNITE 2026**
-National Project Expo
-*Among 860+ teams*
+<div align="center">
 
-</td>
-<td align="center" width="33%">
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-GenAI_(GAI--L)-000000?style=for-the-badge&logo=google-cloud&logoColor=DC143C&labelColor=000000)
+![Accenture](https://img.shields.io/badge/Accenture-Go_for_Gold-000000?style=for-the-badge&logo=accenture&logoColor=DC143C&labelColor=000000)
+![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=DC143C&labelColor=000000)
 
-### 🌍 **Global Finalist**
-**Social Impact Award**
-Top 24 of 464 teams
-*Raksetu Platform*
-
-</td>
-<td align="center" width="33%">
-
-### 🥉 **3rd Place**
-**Hack-A-Cure**
-VIT Chennai
-*Medical RAG-bot*
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -203,31 +148,18 @@ VIT Chennai
 
 <br>
 
-## <p align="center">📜 **Certifications**</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&label=GenAI+(GAI--L)" />
-  <img src="https://img.shields.io/badge/Accenture-000000?style=for-the-badge&logo=accenture&logoColor=white&label=Go+for+Gold" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&label=Python+Essentials" />
-</p>
+### 💼 Open for Opportunities
+
+**Full-time • Freelance • Open Source • Hackathons**
 
 <br>
 
----
+[![Email](https://img.shields.io/badge/divyaanshutonk@gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:divyaanshutonk@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_70329_23464-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+917032923464)
 
-<br>
-
-<h3 align="center">🤝 Let's Build Something Amazing</h3>
-
-<p align="center">
-  <a href="mailto:divyaanshutonk@gmail.com">
-    <img src="https://img.shields.io/badge/divyaanshutonk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Open for:</b> Full-time Roles • Freelance • Open Source • Hackathons
-</p>
+</div>
 
 <br>
 
