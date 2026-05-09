@@ -129,22 +129,22 @@ currently_building: LLM Observability Tools & Real-Time Platforms
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=FEATURED+PROJECTS" />
 </h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
-
 <br/>
 
 <!-- LLMTap -->
 <div align="center">
-
-<a href="https://github.com/DivyaanshuXD/LLMTap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" width="420"/>
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=ts,react,fastify,sqlite,nodejs,git&theme=dark&perline=6" />
-
+  <a href="https://github.com/DivyaanshuXD/LLMTap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="420"/>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,fastify,sqlite,nodejs&theme=dark&perline=6" />
+</div>
+
+<br/>
 
 <details open>
 <summary><b>🔍 LLMTap — Local-First LLM Observability Platform</b></summary>
@@ -156,7 +156,7 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
 [![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)]()
-[![SSE](https://img.shields.io/badge/Server--Sent_Events-FF6600?style=flat-square&logo=serverless&logoColor=white)]()
+[![SSE](https://img.shields.io/badge/SSE-FF6600?style=flat-square&logo=serverless&logoColor=white)]()
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B68EE?style=flat-square&logo=opentelemetry&logoColor=white)]()
 
 </div>
@@ -166,31 +166,29 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 | Feature | Description |
 |:--------|:------------|
 | 🔧 **Zero-Config Observability** | Drop-in tool for LLM apps with distributed tracing, cost analytics, and multi-provider monitoring |
-| 🔌 **ES-Proxy SDK** | Intercepts API calls transparently — zero code changes required for integration |
-| 📦 **Monorepo Architecture** | Clean separation across SDK, Collector, Dashboard, Shared, and CLI packages |
-| ⚡ **Real-Time Streaming** | Fastify + SQLite backend powered by SSE for live telemetry ingestion |
-| 🖥️ **Dashboard & CLI** | React-based analytics dashboard + `npx` CLI launcher for instant setup |
+| 🔌 **ES-Proxy SDK** | Intercepts API calls transparently — zero code changes required |
+| 📦 **Monorepo Architecture** | SDK, Collector, Dashboard, Shared, CLI — clean separation |
+| ⚡ **Real-Time Streaming** | Fastify + SQLite backend powered by SSE for live telemetry |
+| 🖥️ **Dashboard & CLI** | React analytics dashboard + `npx` CLI launcher |
 
 </details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
 
 <br/>
 
 <!-- Raksetu -->
 <div align="center">
 
-<a href="https://www.raksetu.live">
-  <img src="https://img.shields.io/badge/🚀_LIVE_PROJECT-raksetu.live-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark&perline=6" />
+[![LIVE](https://img.shields.io/badge/🚀_LIVE_DEMO-raksetu.live-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://www.raksetu.live)
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark&perline=6" />
+</div>
+
+<br/>
 
 <details>
 <summary><b>🩸 Raksetu — Smart Blood Donation Network</b></summary>
@@ -203,40 +201,38 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)]()
 [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)]()
 [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)]()
-[![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
 
 </div>
 
-> 🔗 **[raksetu.live](https://www.raksetu.live)** &nbsp;|&nbsp; 🏆 **Global Finalist — Social Impact Award (Top 24/464)**
+> 🔗 [**raksetu.live**](https://www.raksetu.live) &nbsp;|&nbsp; 🏆 **Global Finalist — Social Impact Award (Top 24/464)**
 
 | Feature | Description |
 |:--------|:------------|
-| 🌐 **Real-Time Platform** | Nationwide blood request tracking with live donor notifications and geo-matching |
-| 🤖 **ML Donor Retention** | 95.25% accuracy churn prediction model using behavioral signals |
-| 📲 **Twilio Alerts** | Emergency SMS/call notification pipeline with escalation logic |
-| 📊 **Campaign Analytics** | End-to-end donor activity monitoring and campaign management system |
-| 📱 **PWA + Voice Assistant** | Offline-first support with multilingual voice assistant integration |
+| 🌐 **Real-Time Platform** | Nationwide blood request tracking with live donor notifications |
+| 🤖 **ML Donor Retention** | 95.25% accuracy churn prediction model |
+| 📲 **Twilio Alerts** | Emergency SMS/call notification pipeline |
+| 📊 **Campaign Analytics** | Donor activity monitoring and campaign management |
+| 📱 **PWA + Voice Assistant** | Offline support with multilingual voice assistant |
 
 </details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:0d1117&height=3&section=header" width="100%"/>
+<!-- ChildSafe O2 -->
+<div align="center">
+  <a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=ChildSafe-O2&theme=react&border_color=00D26A&border_radius=12&bg_color=0d1117&title_color=00D26A&icon_color=00D26A" width="420"/>
+  </a>
+</div>
 
 <br/>
 
-<!-- ChildSafe O2 -->
 <div align="center">
-
-<a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=ChildSafe-O2&theme=react&border_color=00D26A&border_radius=16&bg_color=0d1117&title_color=00D26A&icon_color=00D26A&text_color=c9d1d9" width="420"/>
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=c,arduino&theme=dark&perline=6" />
-
+  <img src="https://skillicons.dev/icons?i=c,arduino&theme=dark&perline=6" />
 </div>
+
+<br/>
 
 <details>
 <summary><b>🚗 ChildSafe O2 — Vehicle Child Safety System</b></summary>
@@ -244,34 +240,33 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 <div align="center">
 
-[![Embedded C](https://img.shields.io/badge/Embedded_C-00979D?style=flat-square&logo=arduino&logoColor=white)]()
-[![PIR Sensor](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=sensor&logoColor=white)]()
-[![GSM Module](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=sim&logoColor=white)]()
-[![IoT](https://img.shields.io/badge/IoT-FF6D00?style=flat-square&logo=internetexplorer&logoColor=white)]()
+[![Embedded](https://img.shields.io/badge/Embedded_C-00979D?style=flat-square&logo=arduino&logoColor=white)]()
+[![PIR](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=sensor&logoColor=white)]()
+[![GSM](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=sim&logoColor=white)]()
 
 </div>
 
-> 🔗 **[github.com/DivyaanshuXD/ChildSafe-O2](https://github.com/DivyaanshuXD/ChildSafe-O2)**
+> 🔗 [**github.com/DivyaanshuXD/ChildSafe-O2**](https://github.com/DivyaanshuXD/ChildSafe-O2)
 
 | Feature | Description |
 |:--------|:------------|
-| 👶 **Child Detection** | PIR-based presence detection inside locked vehicles with false-positive filtering |
-| 📡 **GSM Alerts** | Automatic SMS and call alerts to guardians with GPS coordinates |
-| 🌬️ **Auto Ventilation** | Relay-controlled ventilation system independent of vehicle ignition state |
-| 🔋 **Fail-Safe Design** | External power backup with lock-detection circuit for always-on safety |
-| ✅ **Field Tested** | Prototype validated under multiple environmental and temperature scenarios |
+| 👶 **Child Detection** | PIR-based presence detection inside locked vehicles |
+| 📡 **GSM Alerts** | Automatic SMS and call alerts to guardians |
+| 🌬️ **Auto Ventilation** | Relay-controlled ventilation independent of ignition |
+| 🔋 **Fail-Safe Design** | External power backup with lock-detection circuit |
+| ✅ **Field Tested** | Prototype validated under multiple environmental scenarios |
 
 </details>
 
 <br/>
+
+---
 
 <!-- ACHIEVEMENTS -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=220&lines=ACHIEVEMENTS" />
 </h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -280,19 +275,19 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 <table>
 <tr>
 <td align="center" width="280">
-<img src="https://img.shields.io/badge/🥇_1st_Place-FFD700?style=for-the-badge&logoColor=black&labelColor=0d1117" /><br/><br/>
+<img src="https://img.shields.io/badge/1st_Place-FFD700?style=for-the-badge&logoColor=black" /><br/><br/>
 <b>IGNITE 2026</b><br/>
 National Level Project Expo<br/>
 <sub>🏅 1st among <b>860+ teams</b></sub>
 </td>
 <td align="center" width="280">
-<img src="https://img.shields.io/badge/🥉_3rd_Place-CD7F32?style=for-the-badge&logoColor=black&labelColor=0d1117" /><br/><br/>
+<img src="https://img.shields.io/badge/3rd_Place-CD7F32?style=for-the-badge&logoColor=black" /><br/><br/>
 <b>Hack-A-Cure, VIT Chennai</b><br/>
 <a href="https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot">Medical RAG Bot</a><br/>
 <sub>🏅 Competitive hackathon win</sub>
 </td>
 <td align="center" width="280">
-<img src="https://img.shields.io/badge/🌍_Global_Finalist-1a73e8?style=for-the-badge&logoColor=white&labelColor=0d1117" /><br/><br/>
+<img src="https://img.shields.io/badge/Global_Finalist-1a73e8?style=for-the-badge&logoColor=white" /><br/><br/>
 <b>Social Impact Award</b><br/>
 Raksetu Platform<br/>
 <sub>🏅 Top <b>24 of 464</b> teams worldwide</sub>
@@ -304,13 +299,13 @@ Raksetu Platform<br/>
 
 <br/>
 
+---
+
 <!-- EDUCATION & CERTIFICATIONS -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=380&lines=EDUCATION+%26+CERTIFICATIONS" />
 </h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -336,24 +331,24 @@ Raksetu Platform<br/>
 
 <br/>
 
+---
+
 <!-- GITHUB STATS -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=GITHUB+ANALYTICS" />
 </h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
-
 <br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&hide_border=false&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=DivyaanshuXD&theme=react&border=00BFFF&ring=00BFFF&fire=FF6600&currStreakLabel=00BFFF&background=0d1117&stroke=00BFFF&sideLabels=00BFFF&dates=c9d1d9" />
 
 <br/><br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&hide_border=false&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&hide_border=false&langs_count=8" />
 
 <br/><br/>
 
@@ -364,13 +359,13 @@ Raksetu Platform<br/>
 
 <br/>
 
+---
+
 <!-- CONNECT -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=240&lines=LET'S+CONNECT" />
 </h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
 
 <br/>
 
