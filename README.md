@@ -124,29 +124,31 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 ---
 <!-- FEATURED PROJECTS -->
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <b>Featured Projects</b>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=FEATURED+PROJECTS" />
 </h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
 
 <br/>
 
-<!-- PROJECT 1: LLMTap -->
+<!-- LLMTap -->
 <div align="center">
-  <a href="https://github.com/DivyaanshuXD/LLMTap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" width="49%" />
-  </a>
+
+<a href="https://github.com/DivyaanshuXD/LLMTap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" width="420"/>
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,react,fastify,sqlite,nodejs,git&theme=dark&perline=6" />
+
 </div>
 
 <details open>
-<summary>
-  <h3>🔍 LLMTap — Local-First LLM Observability Platform</h3>
-</summary>
+<summary><b>🔍 LLMTap — Local-First LLM Observability Platform</b></summary>
+<br/>
 
 <div align="center">
 
@@ -161,8 +163,8 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 > 🔗 **[github.com/DivyaanshuXD/LLMTap](https://github.com/DivyaanshuXD/LLMTap)**
 
-| ⚡ Feature | 📝 Description |
-|:----------|:--------------|
+| Feature | Description |
+|:--------|:------------|
 | 🔧 **Zero-Config Observability** | Drop-in tool for LLM apps with distributed tracing, cost analytics, and multi-provider monitoring |
 | 🔌 **ES-Proxy SDK** | Intercepts API calls transparently — zero code changes required for integration |
 | 📦 **Monorepo Architecture** | Clean separation across SDK, Collector, Dashboard, Shared, and CLI packages |
@@ -173,17 +175,26 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 <br/>
 
-<!-- PROJECT 2: Raksetu -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- Raksetu -->
 <div align="center">
-  <a href="https://github.com/DivyaanshuXD/Raksetu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=Raksetu&theme=react&border_color=FF6B6B&border_radius=16&bg_color=0d1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=c9d1d9" width="49%" />
-  </a>
+
+<a href="https://www.raksetu.live">
+  <img src="https://img.shields.io/badge/🚀_LIVE_PROJECT-raksetu.live-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark&perline=6" />
+
 </div>
 
 <details>
-<summary>
-  <h3>🩸 Raksetu — Smart Blood Donation Network</h3>
-</summary>
+<summary><b>🩸 Raksetu — Smart Blood Donation Network</b></summary>
+<br/>
 
 <div align="center">
 
@@ -198,8 +209,8 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 > 🔗 **[raksetu.live](https://www.raksetu.live)** &nbsp;|&nbsp; 🏆 **Global Finalist — Social Impact Award (Top 24/464)**
 
-| ⚡ Feature | 📝 Description |
-|:----------|:--------------|
+| Feature | Description |
+|:--------|:------------|
 | 🌐 **Real-Time Platform** | Nationwide blood request tracking with live donor notifications and geo-matching |
 | 🤖 **ML Donor Retention** | 95.25% accuracy churn prediction model using behavioral signals |
 | 📲 **Twilio Alerts** | Emergency SMS/call notification pipeline with escalation logic |
@@ -210,17 +221,26 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 <br/>
 
-<!-- PROJECT 3: ChildSafe O2 -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,100:0d1117&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ChildSafe O2 -->
 <div align="center">
-  <a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=ChildSafe-O2&theme=react&border_color=00D26A&border_radius=16&bg_color=0d1117&title_color=00D26A&icon_color=00D26A&text_color=c9d1d9" width="49%" />
-  </a>
+
+<a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=ChildSafe-O2&theme=react&border_color=00D26A&border_radius=16&bg_color=0d1117&title_color=00D26A&icon_color=00D26A&text_color=c9d1d9" width="420"/>
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,arduino&theme=dark&perline=6" />
+
 </div>
 
 <details>
-<summary>
-  <h3>🚗 ChildSafe O2 — Vehicle Child Safety System</h3>
-</summary>
+<summary><b>🚗 ChildSafe O2 — Vehicle Child Safety System</b></summary>
+<br/>
 
 <div align="center">
 
@@ -233,8 +253,8 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 > 🔗 **[github.com/DivyaanshuXD/ChildSafe-O2](https://github.com/DivyaanshuXD/ChildSafe-O2)**
 
-| ⚡ Feature | 📝 Description |
-|:----------|:--------------|
+| Feature | Description |
+|:--------|:------------|
 | 👶 **Child Detection** | PIR-based presence detection inside locked vehicles with false-positive filtering |
 | 📡 **GSM Alerts** | Automatic SMS and call alerts to guardians with GPS coordinates |
 | 🌬️ **Auto Ventilation** | Relay-controlled ventilation system independent of vehicle ignition state |
@@ -245,60 +265,64 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
 <!-- ACHIEVEMENTS -->
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QB78LMb32yN7a6fsMk/giphy.gif" width="35">
-  <b>Trophy Case</b>
-  <img src="https://media.giphy.com/media/QB78LMb32yN7a6fsMk/giphy.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=220&lines=ACHIEVEMENTS" />
 </h2>
 
-<div align="center">
-
-| 🥇 | 🥉 | 🌍 |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/1st_Place-FFD700?style=for-the-badge&logoColor=black" /> | <img src="https://img.shields.io/badge/3rd_Place-CD7F32?style=for-the-badge&logoColor=black" /> | <img src="https://img.shields.io/badge/Global_Finalist-1a73e8?style=for-the-badge&logoColor=white" /> |
-| **IGNITE 2026** | **Hack-A-Cure, VIT Chennai** | **Social Impact Award** |
-| National Level Project Expo | [Medical RAG Bot](https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot) | Raksetu Platform |
-| 🏅 1st among **860+ teams** | 🏅 Competitive hackathon win | 🏅 Top **24 of 464** teams worldwide |
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyaanshuXD&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-<!-- EDUCATION & CERTIFICATIONS -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKiL6FW9Q1RpO2g8P/giphy.gif" width="35">
-  <b>Education & Certifications</b>
-  <img src="https://media.giphy.com/media/jSKiL6FW9Q1RpO2g8P/giphy.gif" width="35">
-</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="60">🎓</td>
+<td align="center" width="280">
+<img src="https://img.shields.io/badge/🥇_1st_Place-FFD700?style=for-the-badge&logoColor=black&labelColor=0d1117" /><br/><br/>
+<b>IGNITE 2026</b><br/>
+National Level Project Expo<br/>
+<sub>🏅 1st among <b>860+ teams</b></sub>
+</td>
+<td align="center" width="280">
+<img src="https://img.shields.io/badge/🥉_3rd_Place-CD7F32?style=for-the-badge&logoColor=black&labelColor=0d1117" /><br/><br/>
+<b>Hack-A-Cure, VIT Chennai</b><br/>
+<a href="https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot">Medical RAG Bot</a><br/>
+<sub>🏅 Competitive hackathon win</sub>
+</td>
+<td align="center" width="280">
+<img src="https://img.shields.io/badge/🌍_Global_Finalist-1a73e8?style=for-the-badge&logoColor=white&labelColor=0d1117" /><br/><br/>
+<b>Social Impact Award</b><br/>
+Raksetu Platform<br/>
+<sub>🏅 Top <b>24 of 464</b> teams worldwide</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- EDUCATION & CERTIFICATIONS -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=380&lines=EDUCATION+%26+CERTIFICATIONS" />
+</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50">🎓</td>
 <td align="left"><b>CMR College of Engineering and Technology</b> — Hyderabad<br/>B.Tech Computer Science Engineering &nbsp;|&nbsp; 2023 – Present &nbsp;|&nbsp; <b>CGPA: 8.0</b></td>
 </tr>
 <tr>
-<td align="center" width="60">📚</td>
+<td align="center" width="50">📚</td>
 <td align="left"><b>Sri Chaitanya Junior Kalasala</b> — Hyderabad<br/>Intermediate MPC &nbsp;|&nbsp; <b>93.9%</b></td>
 </tr>
 </table>
@@ -312,95 +336,63 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<!-- GITHUB STATS -->
 
----
-
-<!-- GITHUB ANALYTICS -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
-  <b>GitHub Analytics</b>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=GITHUB+ANALYTICS" />
 </h2>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&hide_border=false&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=DivyaanshuXD&theme=react&border=00BFFF&ring=00BFFF&fire=FF6600&currStreakLabel=00BFFF&background=0d1117&stroke=00BFFF&sideLabels=00BFFF&dates=c9d1d9" />
 
 <br/><br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&hide_border=false&langs_count=10" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=react&border_color=00BFFF&border_radius=16&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&hide_border=false&langs_count=8" />
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaanshuXD&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
-<br/><br/>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DivyaanshuXD/DivyaanshuXD/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
 <!-- CONNECT -->
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <b>Let's Connect</b>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=240&lines=LET'S+CONNECT" />
 </h2>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:0d1117&height=3&section=header" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-<p align="center">
-  <i>Interested in collaborating on <b>Backend Systems</b>, <b>AI Tools</b>, <b>Full-Stack Apps</b>, <b>Hackathons</b>, or <b>Real-World Tech Projects</b>?</i>
-  <br/>
-  <i>I'm always open to building something extraordinary together.</i>
+<p>
+Interested in collaborating on <b>Backend Systems</b>, <b>AI Tools</b>, <b>Full-Stack Apps</b>, <b>Hackathons</b>, or <b>Real-World Tech Projects</b>?
 </p>
 
 <br/>
 
-<a href="https://linkedin.com/in/divyaanshutonk">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:divyaanshutonk@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/DivyaanshuXD">
-  <img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-</a>
+<a href="https://linkedin.com/in/divyaanshutonk"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>&nbsp;&nbsp;
+<a href="mailto:divyaanshutonk@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>&nbsp;&nbsp;
+<a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS"/>
 
 <br/><br/>
-
-<!-- QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
 
 </div>
-
-<br/>
 
 <!-- FOOTER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" />
-</div>
+<img width="100%" src="./assets/footer.svg"/>
