@@ -1,35 +1,37 @@
-<div align="center">
+&lt;div align="center"&gt;
 
-<!-- HEADER BANNER -->
-<img width="100%" src="./assets/header.svg"/>
+&lt;!-- HEADER BANNER --&gt;
+&lt;img width="100%" src="./assets/header.svg"/&gt;
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Scalable+Systems+%26+Developer+Tools;Backend+%7C+AI+Tools+%7C+Real-Time+Platforms+%7C+System+Design" />
+&lt;!-- TYPING SVG --&gt;
+&lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Scalable+Systems+%26+Developer+Tools;Backend+%7C+AI+Tools+%7C+Real-Time+Platforms+%7C+System+Design" /&gt;
 
-<br/>
+&lt;br/&gt;
 
-<!-- QUICK LINKS -->
-<a href="https://linkedin.com/in/divyaanshutonk"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:divyaanshutonk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+&lt;!-- QUICK LINKS --&gt;
+&lt;a href="https://linkedin.com/in/divyaanshutonk"&gt;&lt;img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;&lt;/a&gt;&nbsp;
+&lt;a href="mailto:divyaanshutonk@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/&gt;&lt;/a&gt;&nbsp;
+&lt;a href="https://github.com/DivyaanshuXD"&gt;&lt;img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/&gt;&lt;/a&gt;&nbsp;
 
-<br/>
+&lt;br/&gt;
 
 `📍 Hyderabad, Telangana` &nbsp; `📧 divyaanshutonk@gmail.com` &nbsp; `📞 +91 7032923464`
 
-<br/>
+&lt;br/&gt;
 
-<img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS"/>
+&lt;img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS"/&gt;
 
-</div>
+&lt;/div&gt;
 
-<br/>
+&lt;br/&gt;
 
-<!-- ABOUT ME -->
+&lt;!-- ABOUT ME --&gt;
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **About Me**
+&lt;h2 align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=160&lines=ABOUT+ME" /&gt;
+&lt;/h2&gt;
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+&lt;img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/&gt;
 
 I'm a **Computer Science undergraduate** focused on building scalable systems, developer tools, and real-world applications.
 
@@ -49,68 +51,70 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 - 🎯 &nbsp; Performance optimization & scalability
 - 🧪 &nbsp; Building projects designed for **real-world usage**
 
-<br clear="right"/>
+&lt;br clear="right"/&gt;
 
 ---
 
-<!-- TECH STACK -->
+&lt;!-- TECH STACK --&gt;
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+&lt;h2 align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=220&lines=TECH+ARSENAL" /&gt;
+&lt;/h2&gt;
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<table>
-<tr>
-<td align="center" width="160">
-<h4>💻 Languages</h4>
-</td>
-<td align="center" width="160">
-<h4>🌐 Frontend</h4>
-</td>
-<td align="center" width="160">
-<h4>⚙️ Backend</h4>
-</td>
-<td align="center" width="160">
-<h4>🗄️ Databases</h4>
-</td>
-<td align="center" width="160">
-<h4>🧰 Tools</h4>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="40"/><br/><sub>Python</sub><br/>
-<img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub>Java</sub><br/>
-<img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/><sub>JavaScript</sub><br/>
-<img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/><sub>TypeScript</sub><br/>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub>React</sub><br/>
-<img src="https://skillicons.dev/icons?i=vite" width="40"/><br/><sub>Vite</sub><br/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><sub>Tailwind</sub><br/>
-<img src="https://skillicons.dev/icons?i=html" width="40"/><br/><sub>HTML5</sub><br/>
-<img src="https://skillicons.dev/icons?i=css" width="40"/><br/><sub>CSS3</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub>Node.js</sub><br/>
-<img src="https://skillicons.dev/icons?i=express" width="40"/><br/><sub>Express</sub><br/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/><sub>Fastify</sub><br/>
-<img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/><sub>Firebase</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub>MongoDB</sub><br/>
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><sub>MySQL</sub><br/>
-<img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br/><sub>SQLite</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub>Git</sub><br/>
-<img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub>GitHub</sub><br/>
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><sub>VS Code</sub><br/>
-</td>
-</tr>
-</table>
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center" width="160"&gt;
+&lt;h4&gt;💻 Languages&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td align="center" width="160"&gt;
+&lt;h4&gt;🌐 Frontend&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td align="center" width="160"&gt;
+&lt;h4&gt;⚙️ Backend&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td align="center" width="160"&gt;
+&lt;h4&gt;🗄️ Databases&lt;/h4&gt;
+&lt;/td&gt;
+&lt;td align="center" width="160"&gt;
+&lt;h4&gt;🧰 Tools&lt;/h4&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;
+&lt;img src="https://skillicons.dev/icons?i=python" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Python&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=java" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Java&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=javascript" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;JavaScript&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=typescript" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;TypeScript&lt;/sub&gt;&lt;br/&gt;
+&lt;/td&gt;
+&lt;td align="center"&gt;
+&lt;img src="https://skillicons.dev/icons?i=react" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;React&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=vite" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Vite&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=tailwind" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Tailwind&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=html" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;HTML5&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=css" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;CSS3&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td align="center"&gt;
+&lt;img src="https://skillicons.dev/icons?i=nodejs" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Node.js&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=express" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Express&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=fastapi" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Fastify&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=firebase" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Firebase&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td align="center"&gt;
+&lt;img src="https://skillicons.dev/icons?i=mongodb" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;MongoDB&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=mysql" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;MySQL&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=sqlite" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;SQLite&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td align="center"&gt;
+&lt;img src="https://skillicons.dev/icons?i=git" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;Git&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=github" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;GitHub&lt;/sub&gt;&lt;br/&gt;
+&lt;img src="https://skillicons.dev/icons?i=vscode" width="40"/&gt;&lt;br/&gt;&lt;sub&gt;VS Code&lt;/sub&gt;&lt;br/&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
-<br/>
+&lt;br/&gt;
 
 **📚 Core Concepts**
 
@@ -120,288 +124,251 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 ![DBMS](https://img.shields.io/badge/DBMS-0d1117?style=flat-square&logo=databricks&logoColor=00BFFF)
 ![SD](https://img.shields.io/badge/System_Design-0d1117?style=flat-square&logo=diagramsdotnet&logoColor=00BFFF)
 
-</div>
+&lt;/div&gt;
 
 ---
-<!-- FEATURED PROJECTS -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=FEATURED+PROJECTS" />
-</h2>
+&lt;!-- FEATURED PROJECTS --&gt;
 
-<br/>
+&lt;h2 align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=FEATURED+PROJECTS" /&gt;
+&lt;/h2&gt;
 
-<!-- LLMTap -->
-<div align="center">
+&lt;br/&gt;
+
+&lt;!-- LLMTap --&gt;
+&lt;div align="center"&gt;
 
 ### 🔍 LLMTap
+**DevTools for AI Agents — Local-First LLM Observability**
 
-**Local-First LLM Observability Platform**
+&lt;a href="https://github.com/DivyaanshuXD/LLMTap"&gt;&lt;img src="https://img.shields.io/badge/⭐_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/&gt;&lt;/a&gt;
+&lt;a href="https://www.npmjs.com/package/llmtap"&gt;&lt;img src="https://img.shields.io/badge/📦_npx_llmtap-CB3837?style=for-the-badge&logo=npm&logoColor=white"/&gt;&lt;/a&gt;
 
-<a href="https://github.com/DivyaanshuXD/LLMTap">
-  <img src="https://img.shields.io/badge/⭐_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+&lt;br/&gt;&lt;br/&gt;
 
-<br/><br/>
+&lt;img src="https://skillicons.dev/icons?i=ts,react,nodejs,sqlite,git&theme=dark&perline=8" /&gt;
 
-<img src="https://skillicons.dev/icons?i=ts,react,fastify,sqlite,nodejs&theme=dark&perline=6" />
+&lt;/div&gt;
 
-</div>
+&lt;br/&gt;
 
-<br/>
+&gt; See every LLM call. Trace agent workflows. Track costs.  
+&gt; **Zero-config.** Wrap your client in 2 lines. Supports OpenAI, Anthropic, Gemini, DeepSeek, Groq, Ollama, Vercel AI SDK & 50+ models.
 
-<details>
-<summary><b>🔍 LLMTap — Local-First LLM Observability Platform</b></summary>
-<br/>
+**Architecture:** TypeScript monorepo · pnpm · Turborepo · Fastify collector · SQLite WAL · React + Vite Dashboard · SSE real-time streaming · OTLP export
 
-<div align="center">
+```ts
+// Two lines to full observability
+import { wrap } from "@llmtap/sdk";
+const client = wrap(new OpenAI());
+```
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
-[![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)]()
-[![SSE](https://img.shields.io/badge/SSE-FF6600?style=flat-square&logo=serverless&logoColor=white)]()
-[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B68EE?style=flat-square&logo=opentelemetry&logoColor=white)]()
+| Capability | Implementation |
+|:---|:---|
+| 🔌 **ES-Proxy SDK** | Intercepts API calls transparently. Streaming, tool calls, multi-turn — all work identically. |
+| 📊 **Real-Time Dashboard** | React SPA with SSE. See traces, token counts, latency, and spend as they happen. |
+| 💰 **Cost Tracking** | Built-in pricing for 50+ models. Input/output costs per-call. Custom pricing overrides. |
+| 🔗 **Trace Grouping** | `startTrace()` groups multi-step agent pipelines with aggregate cost & token usage. |
+| 📡 **OpenTelemetry** | Export OTLP traces to Datadog, Grafana, Jaeger following GenAI Semantic Conventions. |
+| 🔒 **Privacy First** | 100% local. No cloud. No sign-up. Content capture can be disabled entirely. |
 
-</div>
-
-> 🔗 **[github.com/DivyaanshuXD/LLMTap](https://github.com/DivyaanshuXD/LLMTap)**
-
-| Feature | Description |
-|:--------|:------------|
-| 🔧 **Zero-Config Observability** | Drop-in tool for LLM apps with distributed tracing, cost analytics, and multi-provider monitoring |
-| 🔌 **ES-Proxy SDK** | Intercepts API calls transparently — zero code changes required |
-| 📦 **Monorepo Architecture** | Clean separation across SDK, Collector, Dashboard, Shared, and CLI |
-| ⚡ **Real-Time Streaming** | Fastify + SQLite backend powered by SSE for live telemetry |
-| 🖥️ **Dashboard & CLI** | React-based analytics dashboard + `npx` CLI launcher |
-
-</details>
-
-<br/>
+&lt;br/&gt;
 
 ---
 
-<br/>
+&lt;br/&gt;
 
-<!-- Raksetu -->
-<div align="center">
+&lt;!-- Raksetu --&gt;
+&lt;div align="center"&gt;
 
 ### 🩸 Raksetu
-
 **Smart Blood Donation Network**
 
-<a href="https://www.raksetu.live">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-raksetu.live-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117" />
-</a>
+&lt;a href="https://www.raksetu.live"&gt;&lt;img src="https://img.shields.io/badge/🚀_LIVE_DEMO-raksetu.live-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117"/&gt;&lt;/a&gt;
+&lt;img src="https://img.shields.io/badge/🏆_Global_Finalist-Top_24/464-FFD700?style=for-the-badge&labelColor=0d1117"/&gt;
 
-<br/><br/>
+&lt;br/&gt;&lt;br/&gt;
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark&perline=6" />
+&lt;img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark&perline=8" /&gt;
 
-</div>
+&lt;/div&gt;
 
-<br/>
+&lt;br/&gt;
 
-<details>
-<summary><b>🩸 Raksetu — Smart Blood Donation Network</b></summary>
-<br/>
+&gt; Nationwide blood request tracking with live donor notifications, ML-driven retention, and emergency alert pipelines.
 
-<div align="center">
+| Capability | Implementation |
+|:---|:---|
+| 🌐 **Real-Time Platform** | Geo-matched donor notifications with live request tracking across India. |
+| 🤖 **ML Donor Retention** | 95.25% accuracy churn prediction using behavioral engagement signals. |
+| 📲 **Twilio Alerts** | Emergency SMS/call pipeline with escalation logic for critical blood types. |
+| 📊 **Campaign Analytics** | End-to-end donor activity monitoring and blood drive campaign management. |
+| 📱 **PWA + Voice Assistant** | Offline-first support with multilingual voice assistant for accessibility. |
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)]()
-[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)]()
-[![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)]()
-[![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
-
-</div>
-
-> 🔗 [**raksetu.live**](https://www.raksetu.live) &nbsp;|&nbsp; 🏆 **Global Finalist — Social Impact Award (Top 24/464)**
-
-| Feature | Description |
-|:--------|:------------|
-| 🌐 **Real-Time Platform** | Nationwide blood request tracking with live donor notifications and geo-matching |
-| 🤖 **ML Donor Retention** | 95.25% accuracy churn prediction model using behavioral signals |
-| 📲 **Twilio Alerts** | Emergency SMS/call notification pipeline with escalation logic |
-| 📊 **Campaign Analytics** | End-to-end donor activity monitoring and campaign management |
-| 📱 **PWA + Voice Assistant** | Offline-first support with multilingual voice assistant |
-
-</details>
-
-<br/>
+&lt;br/&gt;
 
 ---
 
-<br/>
+&lt;br/&gt;
 
-<!-- ChildSafe O2 -->
-<div align="center">
+&lt;!-- ChildSafe O2 --&gt;
+&lt;div align="center"&gt;
 
 ### 🚗 ChildSafe O2
-
 **Vehicle Child Safety System**
 
-<a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
-  <img src="https://img.shields.io/badge/⭐_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+&lt;a href="https://github.com/DivyaanshuXD/ChildSafe-O2"&gt;&lt;img src="https://img.shields.io/badge/⭐_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/&gt;&lt;/a&gt;
+&lt;img src="https://img.shields.io/badge/🏆_1st_Place-IGNITE_2026-FFD700?style=for-the-badge&labelColor=0d1117"/&gt;
 
-<br/><br/>
+&lt;br/&gt;&lt;br/&gt;
 
-<img src="https://skillicons.dev/icons?i=c,arduino&theme=dark&perline=6" />
+&lt;img src="https://skillicons.dev/icons?i=c,arduino&theme=dark&perline=8" /&gt;
 
-</div>
+&lt;/div&gt;
 
-<br/>
+&lt;br/&gt;
 
-<details>
-<summary><b>🚗 ChildSafe O2 — Vehicle Child Safety System</b></summary>
-<br/>
+&gt; Embedded system that detects child presence in locked vehicles, sends GSM alerts to guardians, and activates independent ventilation — **operates without vehicle ignition.**
 
-<div align="center">
+```
+PIR Sensor → Arduino UNO → GSM Module (SMS/CALL)
+                    ↓
+              Relay Control → Ventilation / Oxygen Module
+```
 
-[![Embedded C](https://img.shields.io/badge/Embedded_C-00979D?style=flat-square&logo=arduino&logoColor=white)]()
-[![PIR Sensor](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=sensor&logoColor=white)]()
-[![GSM Module](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=sim&logoColor=white)]()
+| Capability | Implementation |
+|:---|:---|
+| 👶 **Real-Time Detection** | PIR-based presence detection with false-positive filtering. |
+| 📡 **GSM Alerts** | Automatic SMS and call alerts to guardians with status codes. |
+| 🌬️ **Auto Ventilation** | Relay-controlled oxygen support independent of ignition state. |
+| 🔋 **Fail-Safe Design** | External power circuit with lock-detection for always-on safety. |
+| ✅ **Field Validated** | Working prototype tested under multiple environmental scenarios. |
 
-</div>
-
-> 🔗 [**github.com/DivyaanshuXD/ChildSafe-O2**](https://github.com/DivyaanshuXD/ChildSafe-O2)
-
-| Feature | Description |
-|:--------|:------------|
-| 👶 **Child Detection** | PIR-based presence detection inside locked vehicles with false-positive filtering |
-| 📡 **GSM Alerts** | Automatic SMS and call alerts to guardians with GPS coordinates |
-| 🌬️ **Auto Ventilation** | Relay-controlled ventilation independent of vehicle ignition state |
-| 🔋 **Fail-Safe Design** | External power backup with lock-detection circuit for always-on safety |
-| ✅ **Field Tested** | Prototype validated under multiple environmental scenarios |
-
-</details>
-
-<br/>
+&lt;br/&gt;
 
 ---
 
-<!-- ACHIEVEMENTS -->
+&lt;!-- ACHIEVEMENTS --&gt;
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=220&lines=ACHIEVEMENTS" />
-</h2>
+&lt;h2 align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=220&lines=ACHIEVEMENTS" /&gt;
+&lt;/h2&gt;
 
-<br/>
+&lt;br/&gt;
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<table>
-<tr>
-<td align="center" width="280">
-<img src="https://img.shields.io/badge/1st_Place-FFD700?style=for-the-badge&logoColor=black" /><br/><br/>
-<b>IGNITE 2026</b><br/>
-National Level Project Expo<br/>
-<sub>🏅 1st among <b>860+ teams</b></sub>
-</td>
-<td align="center" width="280">
-<img src="https://img.shields.io/badge/3rd_Place-CD7F32?style=for-the-badge&logoColor=black" /><br/><br/>
-<b>Hack-A-Cure, VIT Chennai</b><br/>
-<a href="https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot">Medical RAG Bot</a><br/>
-<sub>🏅 Competitive hackathon win</sub>
-</td>
-<td align="center" width="280">
-<img src="https://img.shields.io/badge/Global_Finalist-1a73e8?style=for-the-badge&logoColor=white" /><br/><br/>
-<b>Social Impact Award</b><br/>
-Raksetu Platform<br/>
-<sub>🏅 Top <b>24 of 464</b> teams worldwide</sub>
-</td>
-</tr>
-</table>
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center" width="280"&gt;
+&lt;img src="https://img.shields.io/badge/🥇_1st_Place-FFD700?style=for-the-badge&logoColor=black" /&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;IGNITE 2026&lt;/b&gt;&lt;br/&gt;
+National Level Project Expo&lt;br/&gt;
+&lt;sub&gt;🏅 1st among &lt;b&gt;860+ teams&lt;/b&gt;&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td align="center" width="280"&gt;
+&lt;img src="https://img.shields.io/badge/🥉_3rd_Place-CD7F32?style=for-the-badge&logoColor=black" /&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;Hack-A-Cure, VIT Chennai&lt;/b&gt;&lt;br/&gt;
+&lt;a href="https://github.com/DivyaanshuXD/HackACure-RAG-Based-ChatBot"&gt;Medical RAG Bot&lt;/a&gt;&lt;br/&gt;
+&lt;sub&gt;🏅 Competitive hackathon win&lt;/sub&gt;
+&lt;/td&gt;
+&lt;td align="center" width="280"&gt;
+&lt;img src="https://img.shields.io/badge/🌍_Global_Finalist-1a73e8?style=for-the-badge&logoColor=white" /&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;Social Impact Award&lt;/b&gt;&lt;br/&gt;
+Raksetu Platform&lt;br/&gt;
+&lt;sub&gt;🏅 Top &lt;b&gt;24 of 464&lt;/b&gt; teams worldwide&lt;/sub&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
-</div>
+&lt;/div&gt;
 
-<br/>
+&lt;br/&gt;
 
 ---
 
-<!-- EDUCATION & CERTIFICATIONS -->
+&lt;!-- EDUCATION & CERTIFICATIONS --&gt;
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=380&lines=EDUCATION+%26+CERTIFICATIONS" />
-</h2>
+&lt;h2 align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=380&lines=EDUCATION+%26+CERTIFICATIONS" /&gt;
+&lt;/h2&gt;
 
-<br/>
+&lt;br/&gt;
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<table>
-<tr>
-<td align="center" width="50">🎓</td>
-<td align="left"><b>CMR College of Engineering and Technology</b> — Hyderabad<br/>B.Tech Computer Science Engineering &nbsp;|&nbsp; 2023 – Present &nbsp;|&nbsp; <b>CGPA: 8.0</b></td>
-</tr>
-<tr>
-<td align="center" width="50">📚</td>
-<td align="left"><b>Sri Chaitanya Junior Kalasala</b> — Hyderabad<br/>Intermediate MPC &nbsp;|&nbsp; <b>93.9%</b></td>
-</tr>
-</table>
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center" width="50"&gt;🎓&lt;/td&gt;
+&lt;td align="left"&gt;&lt;b&gt;CMR College of Engineering and Technology&lt;/b&gt; — Hyderabad&lt;br/&gt;B.Tech Computer Science Engineering &nbsp;|&nbsp; 2023 – Present &nbsp;|&nbsp; &lt;b&gt;CGPA: 8.0&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" width="50"&gt;📚&lt;/td&gt;
+&lt;td align="left"&gt;&lt;b&gt;Sri Chaitanya Junior Kalasala&lt;/b&gt; — Hyderabad&lt;br/&gt;Intermediate MPC &nbsp;|&nbsp; &lt;b&gt;93.9%&lt;/b&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
-<br/>
+&lt;br/&gt;
 
 [![Accenture](https://img.shields.io/badge/Accenture-Go_for_Gold_%7C_Gold_Level-A100FF?style=for-the-badge&logo=accenture&logoColor=white)]()
 [![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)]()
 
-</div>
+&lt;/div&gt;
 
-<br/>
-
----
-
-<!-- GITHUB ANALYTICS -->
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=GITHUB+ANALYTICS" />
-</h2>
-
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=DivyaanshuXD&theme=react&border=00BFFF&ring=00BFFF&fire=FF6600&currStreakLabel=00BFFF&background=0d1117&stroke=00BFFF&sideLabels=00BFFF&dates=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaanshuXD&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-
-</div>
-
-<br/>
+&lt;br/&gt;
 
 ---
 
-<!-- CONNECT -->
+&lt;!-- GITHUB STATS --&gt;
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=240&lines=LET'S+CONNECT" />
-</h2>
+&lt;h2 align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=GITHUB+ANALYTICS" /&gt;
+&lt;/h2&gt;
 
-<br/>
+&lt;br/&gt;
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<p>
-Interested in collaborating on <b>Backend Systems</b>, <b>AI Tools</b>, <b>Full-Stack Apps</b>, <b>Hackathons</b>, or <b>Real-World Tech Projects</b>?
-</p>
+&lt;img width="70%" src="https://streak-stats.demolab.com/?user=DivyaanshuXD&theme=react&border=00BFFF&ring=00BFFF&fire=FF6600&currStreakLabel=00BFFF&background=0d1117&stroke=00BFFF&sideLabels=00BFFF&dates=c9d1d9" /&gt;
 
-<br/>
+&lt;br/&gt;&lt;br/&gt;
 
-<a href="https://linkedin.com/in/divyaanshutonk"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>&nbsp;&nbsp;
-<a href="mailto:divyaanshutonk@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>&nbsp;&nbsp;
-<a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
+&lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaanshuXD&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/&gt;
 
-<br/><br/>
+&lt;/div&gt;
 
-<img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS"/>
+&lt;br/&gt;
 
-<br/><br/>
+---
 
-</div>
+&lt;!-- CONNECT --&gt;
 
-<!-- FOOTER -->
-<img width="100%" src="./assets/footer.svg"/>
+&lt;h2 align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=240&lines=LET'S+CONNECT" /&gt;
+&lt;/h2&gt;
+
+&lt;br/&gt;
+
+&lt;div align="center"&gt;
+
+&lt;p&gt;
+Interested in collaborating on &lt;b&gt;Backend Systems&lt;/b&gt;, &lt;b&gt;AI Tools&lt;/b&gt;, &lt;b&gt;Full-Stack Apps&lt;/b&gt;, &lt;b&gt;Hackathons&lt;/b&gt;, or &lt;b&gt;Real-World Tech Projects&lt;/b&gt;?
+&lt;/p&gt;
+
+&lt;br/&gt;
+
+&lt;a href="https://linkedin.com/in/divyaanshutonk"&gt;&lt;img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/&gt;&lt;/a&gt;&nbsp;&nbsp;
+&lt;a href="mailto:divyaanshutonk@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/&gt;&lt;/a&gt;&nbsp;&nbsp;
+&lt;a href="https://github.com/DivyaanshuXD"&gt;&lt;img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/&gt;&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;
+
+&lt;img src="https://komarev.com/ghpvc/?username=DivyaanshuXD&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS"/&gt;
+
+&lt;br/&gt;&lt;br/&gt;
+
+&lt;/div&gt;
+
+&lt;!-- FOOTER --&gt;
+&lt;img width="100%" src="./assets/footer.svg"/&gt;
