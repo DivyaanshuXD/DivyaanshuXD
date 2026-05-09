@@ -133,20 +133,24 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 <!-- LLMTap -->
 <div align="center">
-  <a href="https://github.com/DivyaanshuXD/LLMTap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=LLMTap&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" width="420"/>
-  </a>
+
+### 🔍 LLMTap
+
+**Local-First LLM Observability Platform**
+
+<a href="https://github.com/DivyaanshuXD/LLMTap">
+  <img src="https://img.shields.io/badge/⭐_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,react,fastify,sqlite,nodejs&theme=dark&perline=6" />
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,fastify,sqlite,nodejs&theme=dark&perline=6" />
-</div>
-
-<br/>
-
-<details open>
+<details>
 <summary><b>🔍 LLMTap — Local-First LLM Observability Platform</b></summary>
 <br/>
 
@@ -167,25 +171,33 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 |:--------|:------------|
 | 🔧 **Zero-Config Observability** | Drop-in tool for LLM apps with distributed tracing, cost analytics, and multi-provider monitoring |
 | 🔌 **ES-Proxy SDK** | Intercepts API calls transparently — zero code changes required |
-| 📦 **Monorepo Architecture** | SDK, Collector, Dashboard, Shared, CLI — clean separation |
+| 📦 **Monorepo Architecture** | Clean separation across SDK, Collector, Dashboard, Shared, and CLI |
 | ⚡ **Real-Time Streaming** | Fastify + SQLite backend powered by SSE for live telemetry |
-| 🖥️ **Dashboard & CLI** | React analytics dashboard + `npx` CLI launcher |
+| 🖥️ **Dashboard & CLI** | React-based analytics dashboard + `npx` CLI launcher |
 
 </details>
+
+<br/>
+
+---
 
 <br/>
 
 <!-- Raksetu -->
 <div align="center">
 
-[![LIVE](https://img.shields.io/badge/🚀_LIVE_DEMO-raksetu.live-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://www.raksetu.live)
+### 🩸 Raksetu
 
-</div>
+**Smart Blood Donation Network**
 
-<br/>
+<a href="https://www.raksetu.live">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-raksetu.live-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+</a>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark&perline=6" />
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase&theme=dark&perline=6" />
+
 </div>
 
 <br/>
@@ -209,27 +221,35 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 | Feature | Description |
 |:--------|:------------|
-| 🌐 **Real-Time Platform** | Nationwide blood request tracking with live donor notifications |
-| 🤖 **ML Donor Retention** | 95.25% accuracy churn prediction model |
-| 📲 **Twilio Alerts** | Emergency SMS/call notification pipeline |
-| 📊 **Campaign Analytics** | Donor activity monitoring and campaign management |
-| 📱 **PWA + Voice Assistant** | Offline support with multilingual voice assistant |
+| 🌐 **Real-Time Platform** | Nationwide blood request tracking with live donor notifications and geo-matching |
+| 🤖 **ML Donor Retention** | 95.25% accuracy churn prediction model using behavioral signals |
+| 📲 **Twilio Alerts** | Emergency SMS/call notification pipeline with escalation logic |
+| 📊 **Campaign Analytics** | End-to-end donor activity monitoring and campaign management |
+| 📱 **PWA + Voice Assistant** | Offline-first support with multilingual voice assistant |
 
 </details>
 
 <br/>
 
-<!-- ChildSafe O2 -->
-<div align="center">
-  <a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyaanshuXD&repo=ChildSafe-O2&theme=react&border_color=00D26A&border_radius=12&bg_color=0d1117&title_color=00D26A&icon_color=00D26A" width="420"/>
-  </a>
-</div>
+---
 
 <br/>
 
+<!-- ChildSafe O2 -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,arduino&theme=dark&perline=6" />
+
+### 🚗 ChildSafe O2
+
+**Vehicle Child Safety System**
+
+<a href="https://github.com/DivyaanshuXD/ChildSafe-O2">
+  <img src="https://img.shields.io/badge/⭐_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,arduino&theme=dark&perline=6" />
+
 </div>
 
 <br/>
@@ -240,9 +260,9 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 <div align="center">
 
-[![Embedded](https://img.shields.io/badge/Embedded_C-00979D?style=flat-square&logo=arduino&logoColor=white)]()
-[![PIR](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=sensor&logoColor=white)]()
-[![GSM](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=sim&logoColor=white)]()
+[![Embedded C](https://img.shields.io/badge/Embedded_C-00979D?style=flat-square&logo=arduino&logoColor=white)]()
+[![PIR Sensor](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=sensor&logoColor=white)]()
+[![GSM Module](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=sim&logoColor=white)]()
 
 </div>
 
@@ -250,10 +270,10 @@ currently_building: LLM Observability Tools & Real-Time Platforms
 
 | Feature | Description |
 |:--------|:------------|
-| 👶 **Child Detection** | PIR-based presence detection inside locked vehicles |
-| 📡 **GSM Alerts** | Automatic SMS and call alerts to guardians |
-| 🌬️ **Auto Ventilation** | Relay-controlled ventilation independent of ignition |
-| 🔋 **Fail-Safe Design** | External power backup with lock-detection circuit |
+| 👶 **Child Detection** | PIR-based presence detection inside locked vehicles with false-positive filtering |
+| 📡 **GSM Alerts** | Automatic SMS and call alerts to guardians with GPS coordinates |
+| 🌬️ **Auto Ventilation** | Relay-controlled ventilation independent of vehicle ignition state |
+| 🔋 **Fail-Safe Design** | External power backup with lock-detection circuit for always-on safety |
 | ✅ **Field Tested** | Prototype validated under multiple environmental scenarios |
 
 </details>
@@ -333,7 +353,7 @@ Raksetu Platform<br/>
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB ANALYTICS -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=1&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=false&width=280&lines=GITHUB+ANALYTICS" />
@@ -343,16 +363,10 @@ Raksetu Platform<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyaanshuXD&show_icons=true&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&hide_border=false&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=DivyaanshuXD&theme=react&border=00BFFF&ring=00BFFF&fire=FF6600&currStreakLabel=00BFFF&background=0d1117&stroke=00BFFF&sideLabels=00BFFF&dates=c9d1d9" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=DivyaanshuXD&theme=react&border=00BFFF&ring=00BFFF&fire=FF6600&currStreakLabel=00BFFF&background=0d1117&stroke=00BFFF&sideLabels=00BFFF&dates=c9d1d9" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaanshuXD&layout=compact&theme=react&border_color=00BFFF&border_radius=12&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&hide_border=false&langs_count=8" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaanshuXD&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
