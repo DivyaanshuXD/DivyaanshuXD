@@ -231,7 +231,7 @@ portfolio: https://divport.vercel.app
 
 <h2 align="center">📂 Project Breakdown</h2>
 
-<details open>
+<details>
 <summary>
 <b>🥇 LLMTap — Local-First LLM Observability Platform</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 CORE PROJECT 】</b>
 </summary>
@@ -350,85 +350,6 @@ Raksetu Platform<br/>
 
 ---
 
-<!-- ENGINEERING SNAPSHOT -->
-
-<h2 align="center">📊 Engineering Snapshot</h2>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🧠 Build Focus
-**Backend Systems**  
-APIs, service design, real-time workflows, developer tooling, and data-heavy products.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚡ Current Direction
-**LLM Observability**  
-Tracing, cost analytics, local-first tooling, and infra-minded AI developer workflows.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🚀 Product Bias
-**Real Utility > Demo Ware**  
-I prefer systems with operational value, clear workflows, and real constraints.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 What I Usually Work On
-- Full-stack products with backend-heavy architecture
-- AI-enabled tools that solve workflow problems
-- Real-time systems, event flows, dashboards, and notifications
-- Prototypes that can move beyond hackathon-stage thinking
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ What I Care About In Engineering
-- Clean architecture and modular systems
-- Observability and debugging visibility
-- Performance and developer ergonomics
-- Projects that can survive real usage, not only presentations
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-<h3>🏗️ Systems</h3>
-Backend platforms, APIs, pipelines, observability tooling, and product architecture.
-</td>
-<td width="33%" align="center">
-<h3>🤖 AI Tools</h3>
-RAG systems, LLM workflows, automation layers, and practical AI integrations.
-</td>
-<td width="33%" align="center">
-<h3>🌍 Real-World Apps</h3>
-Healthcare, emergency response, safety systems, and coordination platforms.
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <!-- PORTFOLIO SIGNBOARD -->
 
