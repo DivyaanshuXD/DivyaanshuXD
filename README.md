@@ -144,7 +144,7 @@ portfolio: https://divport.vercel.app
 ### 🥈 Raksetu
 **Smart Blood Donation Network**
 
-[![Live Platform](https://img.shields.io/badge/LIVE_PLATFORM-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.raksetu.live)
+[![Live Platform](https://img.shields.io/badge/LIVE_PLATFORM-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.raksetu.vercel.app)
 
 <sub>Real-time blood request workflows, donor engagement, ML retention, and emergency communication tooling.</sub>
 
@@ -227,95 +227,7 @@ portfolio: https://divport.vercel.app
 
 ---
 
-<!-- PROJECT BREAKDOWN -->
 
-<h2 align="center">📂 Project Breakdown</h2>
-
-<details>
-<summary>
-<b>🥇 LLMTap — Local-First LLM Observability Platform</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 CORE PROJECT 】</b>
-</summary>
-<br/>
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SSE](https://img.shields.io/badge/SSE-FF6600?style=flat-square&logo=serverless&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B68EE?style=flat-square&logo=opentelemetry&logoColor=white)
-
-</div>
-
-> 🔗 [**github.com/DivyaanshuXD/LLMTap**](https://github.com/DivyaanshuXD/LLMTap)
-
-| Area | Description |
-|:-----|:------------|
-| 🔧 **Observability Core** | Built for LLM apps with tracing, latency visibility, token usage monitoring, and cost analytics |
-| 🔌 **Integration Layer** | Proxy-style SDK approach for lower-friction instrumentation |
-| 📦 **Architecture** | Monorepo split across SDK, collector, dashboard, shared packages, and CLI |
-| ⚡ **Real-Time Streaming** | Fastify + SQLite backend with SSE for live event visibility |
-| 🖥️ **Developer Workflow** | Dashboard and CLI flow designed for local-first usage |
-
-</details>
-
-<details>
-<summary>
-<b>🥈 Raksetu — Smart Blood Donation Network</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 IMPACT PROJECT 】</b>
-</summary>
-<br/>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Maps_API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-
-</div>
-
-> 🔗 [**raksetu.live**](https://www.raksetu.live) &nbsp;|&nbsp; 🏆 **Global Finalist — Top 24 / 464**
-
-| Area | Description |
-|:-----|:------------|
-| 🌐 **Platform Workflow** | Nationwide blood request handling with live donor notifications |
-| 🤖 **ML Layer** | Donor retention and churn prediction workflow |
-| 📲 **Alerting** | Emergency SMS / call communication via Twilio |
-| 📊 **Operations** | Campaign analytics, donor activity tracking, and request management |
-| 📱 **User Experience** | PWA support and multilingual voice assistant flow |
-
-</details>
-
-<details>
-<summary>
-<b>🥉 ChildSafe O2 — Vehicle Child Safety System</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 EMBEDDED PROJECT 】</b>
-</summary>
-<br/>
-
-<div align="center">
-
-![Embedded](https://img.shields.io/badge/Embedded_Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
-![PIR](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=homeassistant&logoColor=white)
-![GSM](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=signal&logoColor=white)
-
-</div>
-
-> 🔗 [**github.com/DivyaanshuXD/ChildSafe-O2**](https://github.com/DivyaanshuXD/ChildSafe-O2)
-
-| Area | Description |
-|:-----|:------------|
-| 👶 **Child Detection** | PIR-based child presence detection inside locked vehicles |
-| 📡 **Guardian Alerting** | SMS and call notification workflow through GSM |
-| 🌬️ **Ventilation Support** | Relay-based ventilation mechanism independent of ignition |
-| 🔋 **Fail-Safe Design** | Built with external power and safety-focused circuit design |
-| ✅ **Prototype Validation** | Tested as a hardware-backed safety prototype |
-
-</details>
-
----
 
 <!-- ACHIEVEMENTS -->
 
