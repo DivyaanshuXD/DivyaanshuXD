@@ -144,7 +144,7 @@ portfolio: https://divport.vercel.app
 ### 🥈 Raksetu
 **Smart Blood Donation Network**
 
-[![Live Platform](https://img.shields.io/badge/LIVE_PLATFORM-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.raksetu.vercel.app)
+[![Live Platform](https://img.shields.io/badge/LIVE_PLATFORM-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://raksetu.vercel.app)
 
 <sub>Real-time blood request workflows, donor engagement, ML retention, and emergency communication tooling.</sub>
 
