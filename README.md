@@ -38,8 +38,6 @@ I'm a **Computer Science undergraduate** focused on building scalable systems, d
 name: Divyaanshu Tonk
 role: Full-Stack Developer
 location: Hyderabad, India
-education: B.Tech CSE @ CMRCET
-cgpa: 8.0
 currently_building: LLM Observability Tools & Real-Time Platforms
 portfolio: https://divport.vercel.app
 ```
@@ -127,55 +125,53 @@ portfolio: https://divport.vercel.app
 
 ---
 
-<!-- FEATURED PROJECTS -->
+<!-- PROJECT PODIUM -->
 
-<h2 align="center">🌟 Featured Project</h2>
+<h2 align="center">🏟️ Project Podium</h2>
 
 <div align="center">
-
-<table width="100%">
-<tr>
-<td width="100%" align="center">
-
-### 🔎 LLMTap
-**Local-First LLM Observability Platform**
-
-<p>
-  <a href="https://github.com/DivyaanshuXD/LLMTap">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0d1117" alt="LLMTap Repository"/>
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-#### ⚙️ Problem
-Most LLM tooling focuses on model output, not on **observability**. Debugging latency, token cost, traces, and provider behavior across local workflows is still messy.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 🧠 Solution
-LLMTap is built as a **local-first observability layer** for LLM apps, focused on tracing, cost analytics, request visibility, and real-time debugging without forcing cloud lock-in.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-#### 🚀 Why It Stands Out
-It targets a real developer pain point, not a demo use case. The project is positioned around **developer infrastructure**, not another chatbot wrapper.
-
-</td>
-</tr>
-</table>
+<b>Three projects that define how I build, backend-heavy systems, AI tooling, and real-world platforms.</b>
+</div>
 
 <br/>
 
 <div align="center">
+
+<table width="100%">
+<tr>
+<td width="30%" align="center" valign="bottom">
+
+### 🥈 Raksetu
+**Smart Blood Donation Network**
+
+[![Live Platform](https://img.shields.io/badge/LIVE_PLATFORM-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://www.raksetu.live)
+
+<sub>Real-time blood request workflows, donor engagement, ML retention, and emergency communication tooling.</sub>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+
+<br/><br/>
+
+<b>Top 24 / 464</b><br/>
+<sub>Global Finalist, Social Impact Award</sub>
+
+</td>
+
+<td width="40%" align="center" valign="top">
+
+# 🥇 LLMTap
+### **Local-First LLM Observability Platform**
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=0d1117)](https://github.com/DivyaanshuXD/LLMTap)
+
+<sub>Built around a real developer problem, tracing, cost analytics, request visibility, and real-time debugging for LLM applications without forcing cloud lock-in.</sub>
+
+<br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -184,39 +180,60 @@ It targets a real developer pain point, not a demo use case. The project is posi
 ![SSE](https://img.shields.io/badge/SSE-FF6600?style=flat-square&logo=serverless&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B68EE?style=flat-square&logo=opentelemetry&logoColor=white)
 
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">🔧 <b>Tracing</b></td>
+<td align="center">💸 <b>Cost Visibility</b></td>
+<td align="center">⚡ <b>Live Debugging</b></td>
+</tr>
+<tr>
+<td align="center">📦 <b>Monorepo</b></td>
+<td align="center">🖥️ <b>Dashboard + CLI</b></td>
+<td align="center">🧠 <b>Infra-Minded Tooling</b></td>
+</tr>
+</table>
+
+</td>
+
+<td width="30%" align="center" valign="bottom">
+
+### 🥉 ChildSafe O2
+**Vehicle Child Safety System**
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyaanshuXD/ChildSafe-O2)
+
+<sub>Embedded safety prototype for child detection, GSM alerting, and automated ventilation inside locked vehicles.</sub>
+
+<br/>
+
+![Embedded](https://img.shields.io/badge/Embedded-00979D?style=flat-square&logo=arduino&logoColor=white)
+![PIR](https://img.shields.io/badge/PIR_Sensor-FF6F00?style=flat-square&logo=homeassistant&logoColor=white)
+![GSM](https://img.shields.io/badge/GSM_Module-2196F3?style=flat-square&logo=signal&logoColor=white)
+
+<br/><br/>
+
+<b>Hardware Safety Prototype</b><br/>
+<sub>Alerting + fail-safe ventilation workflow</sub>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
-
-| Area | What LLMTap Does |
-|:-----|:------------------|
-| 🔧 **Observability Core** | Captures traces, latency, token usage, and cost across LLM requests |
-| 🔌 **Low-Friction Integration** | Uses a proxy-style SDK approach so developers can instrument apps with minimal changes |
-| 📦 **Monorepo Architecture** | Structured into SDK, collector, dashboard, shared packages, and CLI |
-| ⚡ **Real-Time Debugging** | Streams live events using Fastify + SQLite + SSE for active inspection |
-| 🖥️ **Developer Workflow** | Provides both dashboard visibility and CLI-oriented usage for local-first workflows |
-
-<br/>
-
-<details>
-<summary><b>📌 LLMTap Design Notes</b></summary>
-<br/>
-
-- Built around a **developer workflow problem**, not a generic AI app demo.
-- Focuses on **local-first observability**, which is still underrepresented compared to hosted observability platforms.
-- Stronger positioning than a basic “LLM dashboard” because it targets **instrumentation + debugging + cost visibility** together.
-
-</details>
-
-</div>
 
 ---
 
-<!-- PROJECT DETAILS -->
+<!-- PROJECT BREAKDOWN -->
 
-<details>
+<h2 align="center">📂 Project Breakdown</h2>
+
+<details open>
 <summary>
-<b>🔍 LLMTap — Local-First LLM Observability Platform</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 EXPAND 】</b>
+<b>🥇 LLMTap — Local-First LLM Observability Platform</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 CORE PROJECT 】</b>
 </summary>
 <br/>
 
@@ -233,19 +250,19 @@ It targets a real developer pain point, not a demo use case. The project is posi
 
 > 🔗 [**github.com/DivyaanshuXD/LLMTap**](https://github.com/DivyaanshuXD/LLMTap)
 
-| Feature | Description |
-|:--------|:------------|
-| 🔧 **Zero-Config Observability** | Built tool for LLM apps with tracing, cost analytics, and monitoring across multiple providers |
-| 🔌 **ES-Proxy SDK** | Intercepts API calls without code changes for lower-friction integration |
-| 📦 **Monorepo Architecture** | SDK, Collector, Dashboard, Shared, CLI packages with clear separation |
-| ⚡ **Real-Time Streaming** | Fastify + SQLite backend with SSE for live data |
-| 🖥️ **Dashboard & CLI** | React dashboard + CLI launcher workflow |
+| Area | Description |
+|:-----|:------------|
+| 🔧 **Observability Core** | Built for LLM apps with tracing, latency visibility, token usage monitoring, and cost analytics |
+| 🔌 **Integration Layer** | Proxy-style SDK approach for lower-friction instrumentation |
+| 📦 **Architecture** | Monorepo split across SDK, collector, dashboard, shared packages, and CLI |
+| ⚡ **Real-Time Streaming** | Fastify + SQLite backend with SSE for live event visibility |
+| 🖥️ **Developer Workflow** | Dashboard and CLI flow designed for local-first usage |
 
 </details>
 
 <details>
 <summary>
-<b>🩸 Raksetu — Smart Blood Donation Network</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 EXPAND 】</b>
+<b>🥈 Raksetu — Smart Blood Donation Network</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 IMPACT PROJECT 】</b>
 </summary>
 <br/>
 
@@ -256,25 +273,25 @@ It targets a real developer pain point, not a demo use case. The project is posi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Maps_API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
-> 🔗 [**raksetu.live**](https://www.raksetu.live) &nbsp;|&nbsp; 🏆 **Global Finalist — Social Impact Award (Top 24/464)**
+> 🔗 [**raksetu.live**](https://www.raksetu.live) &nbsp;|&nbsp; 🏆 **Global Finalist — Top 24 / 464**
 
-| Feature | Description |
-|:--------|:------------|
-| 🌐 **Real-Time Platform** | Nationwide blood request tracking with live donor notifications |
-| 🤖 **ML Donor Retention** | 95.25% accuracy churn prediction model |
-| 📲 **Twilio Alerts** | Emergency SMS/call notification pipeline |
-| 📊 **Campaign Analytics** | Donor activity monitoring and campaign management system |
-| 📱 **PWA + Voice Assistant** | Offline support with multilingual voice assistant |
+| Area | Description |
+|:-----|:------------|
+| 🌐 **Platform Workflow** | Nationwide blood request handling with live donor notifications |
+| 🤖 **ML Layer** | Donor retention and churn prediction workflow |
+| 📲 **Alerting** | Emergency SMS / call communication via Twilio |
+| 📊 **Operations** | Campaign analytics, donor activity tracking, and request management |
+| 📱 **User Experience** | PWA support and multilingual voice assistant flow |
 
 </details>
 
 <details>
 <summary>
-<b>🚗 ChildSafe O2 — Vehicle Child Safety System</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 EXPAND 】</b>
+<b>🥉 ChildSafe O2 — Vehicle Child Safety System</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>【 EMBEDDED PROJECT 】</b>
 </summary>
 <br/>
 
@@ -288,13 +305,13 @@ It targets a real developer pain point, not a demo use case. The project is posi
 
 > 🔗 [**github.com/DivyaanshuXD/ChildSafe-O2**](https://github.com/DivyaanshuXD/ChildSafe-O2)
 
-| Feature | Description |
-|:--------|:------------|
-| 👶 **Child Detection** | Detects child presence inside locked vehicles using PIR sensor |
-| 📡 **GSM Alerts** | Automatic SMS and call alerts to guardians |
-| 🌬️ **Auto Ventilation** | Relay-based ventilation system independent of vehicle ignition |
-| 🔋 **Fail-Safe Design** | External power and lock detection circuit |
-| ✅ **Tested & Validated** | Prototype tested under multiple environmental scenarios |
+| Area | Description |
+|:-----|:------------|
+| 👶 **Child Detection** | PIR-based child presence detection inside locked vehicles |
+| 📡 **Guardian Alerting** | SMS and call notification workflow through GSM |
+| 🌬️ **Ventilation Support** | Relay-based ventilation mechanism independent of ignition |
+| 🔋 **Fail-Safe Design** | Built with external power and safety-focused circuit design |
+| ✅ **Prototype Validation** | Tested as a hardware-backed safety prototype |
 
 </details>
 
@@ -328,32 +345,6 @@ Raksetu Platform<br/>
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<!-- EDUCATION & CERTIFICATIONS -->
-
-<h2 align="center">🎓 Education & Certifications</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50">🎓</td>
-<td><b>CMR College of Engineering and Technology</b> — Hyderabad<br/>B.Tech Computer Science Engineering &nbsp;|&nbsp; 2023 – Present &nbsp;|&nbsp; <b>CGPA: 8.0</b></td>
-</tr>
-<tr>
-<td align="center" width="50">📚</td>
-<td><b>Sri Chaitanya Junior Kalasala</b> — Hyderabad<br/>Intermediate MPC &nbsp;|&nbsp; <b>93.9%</b></td>
-</tr>
-</table>
-
-<br/>
-
-![Accenture](https://img.shields.io/badge/Accenture-Go_for_Gold_%7C_Gold_Level-A100FF?style=for-the-badge&logo=accenture&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
