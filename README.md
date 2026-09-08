@@ -12,11 +12,11 @@
 <a href="https://linkedin.com/in/divyaanshutonk"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:divyaanshutonk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="https://divport.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://divverse.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br/>
 
-`📍 Hyderabad, Telangana` &nbsp; `📧 divyaanshutonk@gmail.com` &nbsp; `💼 Backend Developer` &nbsp; `🌐 divport.vercel.app`
+`📍 Hyderabad, Telangana` &nbsp; `📧 divyaanshutonk@gmail.com` &nbsp; `💼 Backend Developer` &nbsp; `🌐 divverse.vercel.app`
 
 <br/>
 
@@ -39,7 +39,7 @@ name: Divyaanshu Tonk
 role: Full-Stack Developer
 location: Hyderabad, India
 currently_building: LLM Observability Tools & Real-Time Platforms
-portfolio: https://divport.vercel.app
+portfolio: https://divverse.vercel.app
 ```
 
 **What drives me:**
@@ -279,12 +279,12 @@ Raksetu Platform<br/>
 
 <br/>
 
-<a href="https://divport.vercel.app">
+<a href="https://divverse.vercel.app">
   <img src="https://img.shields.io/badge/ENTER_MY_PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Enter portfolio"/>
 </a>
 &nbsp;
-<a href="https://divport.vercel.app">
-  <img src="https://img.shields.io/badge/divport.vercel.app-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF" alt="portfolio link"/>
+<a href="https://divvers.vercel.app">
+  <img src="https://img.shields.io/badge/divverse.vercel.app-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00BFFF" alt="portfolio link"/>
 </a>
 
 <br/><br/>
@@ -314,7 +314,7 @@ Interested in collaborating on <b>Backend Systems</b>, <b>AI Tools</b>, <b>Full-
 <a href="https://linkedin.com/in/divyaanshutonk"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:divyaanshutonk@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://github.com/DivyaanshuXD"><img src="https://img.shields.io/badge/Check_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Repos"/></a>&nbsp;&nbsp;
-<a href="https://divport.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00BFFF" alt="Portfolio"/></a>
+<a href="https://divverse.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00BFFF" alt="Portfolio"/></a>
 
 <br/><br/>
 
